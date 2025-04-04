@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "VN";
+"currency" = "₫";
+"theLoanTermTooBigYears" = "Thời gian vay (số năm) quá lớn, vui lòng thử lại!";
+"theLoanTermTooBigMonths" = "Thời gian vay (số tháng) quá lớn, vui lòng thử lại!";
+
+"pleaseTapCalculate" = "Vui lòng ấn 'Tính Toán' trước khi sử dụng tính năng này";
+"thereWasAnError" = "Có lỗi xảy ra, vui lòng thử lại";
+"theLoanInterestRateTooBig" = "Lãi suất quá lớn, vui lòng thử lại";
+"youDoNotNeedALoan" = "Số tiền thanh toán của bạn lớn hơn khoản vay, bạn không cần vay tiền";
+"anErrorOccurred" = "Có lỗi xảy ra, vui lòng kiểm tra lại";
+"pleaseDoNotLeaveTheNameBlank" = "Vui lòng không để trống tên";
+"createdDate" = "Ngày tạo";
+"year" = "năm";
+"years" = "năm";
+"month" = "tháng";
+"months" = "tháng";
+"day" = "ngày";
+"days" = "ngày";
+"delete" = "Xoá";
+"removeAdsAndSupportingOurDevelopment" = "Bỏ quảng cáo và ủng hộ sự phát triển của chúng tôi";
+"loanTermMustBeAPositiveInteger" = "Thời gian vay phải là một số nguyên dương";
+"appName" = "Tính Lãi Vay";
+"input" = "Nhập vào";
+"total" = "Tổng cộng";
+"result" = "Kết quả";
+"loanTerm" = "Thời gian vay";
+"interestRate" = "Lãi suất";
+"loanAmount" = "Số tiền vay";
+"totalInterest" = "Tổng lãi";
+"youCantCompleteTheLoan" = "Bạn không thể hoàn thành khoản vay với số tiền thanh toán nhỏ như vậy";
+"interestRateIsNotNegative" = "Lãi suất không thể là số âm";
+"loanAmountIsNotNegative" = "Số tiền vay không thể là số âm";
+"monthIsNotNegative" = "Tháng không thể là số âm";
+"yearIsNotNegative" = "Số năm không thể là số âm";
+"paymentIsNotNegative" = "Thanh toán không thể là số âm";
+"paymentFrequency" = "Kỳ thanh toán";
+"payment" = "Thanh Toán";
+"numberOfPayment" = "Số lần thanh toán";
+"totalRepaid" = "Tổng phải trả";
+"paymentIsNotZeroOrBlank" = "Thanh toán phải lớn hơn 0";
+"loanTermMustBeAPositiveIntegerA" = "Thời gian vay (Vay A) không thể là số âm";
+"loanTermMustBeAPositiveIntegerB" = "Thời gian vay (Vay B) không thể là số âm";
+"interestRateIsNotNegativeA" = "Lãi suất (Vay A) không thể là số âm";
+"interestRateIsNotNegativeB" = "Lãi suất (Vay B) không thể là số âm";
+"loanAmountIsNotNegativeA" = "Số tiền vay (Vay A) không thể là số âm";
+"loanAmountIsNotNegativeB" = "Số tiền vay (Vay B) không thể là số âm";
+"monthIsNotNegativeA" = "Tháng (Vay A) không thể là số âm";
+"monthIsNotNegativeB" = "Tháng (Vay B) không thể là số âm";
+"yearIsNotNegativeA" = "Năm (Vay A) không thể là số âm";
+"yearIsNotNegativeB" = "Năm (Vay B) không thể là số âm";
+"theLoanTermTooBigYearsA" = "Số năm vay (Vay A) quá lớn";
+"theLoanTermTooBigYearsB" = "Số năm vay (Vay B) quá lớn";
+"theLoanTermTooBigMonthsA" = "Số tháng vay (Vay A) quá lớn";
+"theLoanTermTooBigMonthsB" = "Số tháng vay (Vay A) quá lớn";
+"theLoanInterestRateTooBigA" = "Lãi suất (Vay A) quá lớn";
+"theLoanInterestRateTooBigB" = "Lãi suất(Vay A) quá lớn";
+"daily" = "Hàng ngày";
+"weekly" = "Hàng tuần";
+"monthly" = "Hàng tháng";
+"quarterly" = "Hàng quý";
+"semiannually" = "Hàng 6 tháng";
+"annually" = "Hàng năm";
+"error" = "Lỗi";
+"notification" = "Thông báo";
+"interestRateDefine" = "Lãi suất nhập vào ô này là lãi suất theo năm";
+"unableToSendMail" = "Không thể gửi mail";
+"unableToSendMailDefine" = "Không thể gửi mail trên thiết bị này";
+"paymentEveryDay" = "Thanh toán hàng ngày";
+"paymentEveryWeek" = "Thanh toán hàng tuần";
+"paymentEveryMonth" = "Thanh toán hàng tháng";
+"paymentEveryQuarter" = "Thanh toán hàng quý";
+"paymentEverySixMonth" = "Thanh toán hàng 6 tháng";
+"paymentEveryYear" = "Thanh toán hàng năm";
+"interest" = "Lãi";
+"principal" = "Trừ nợ gốc";
+"balance" = "Nợ gốc còn";
+"amortizationSchedule" = "Bảng khấu trừ";
+"questionAbout" = "Câu hỏi về Tính Lãi Vay";
+"edit" = "Sửa";
+"editName" = "Sưa tên";
+"editPurchaseDate" = "Sửa ngày vay";
+"upgradeAndRemoveAdsDetails0" = "Tính năng này đã bị khóa.";
+"upgradeAndRemoveAds" = "Nâng cấp để loại bỏ quảng cáo và mở khóa tất cả các tính năng. Chỉ ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - Gửi Mail kết quả";
+"upgradeAndRemoveAdsDetails2" = "\n - Xuất ra file CSV (Excel)";
+"upgradeAndRemoveAdsDetails3" = "\n - Tính thời gian trả nợ";
+"upgradeAndRemoveAdsDetails4" = "\n - So sánh các khoản vay";
+
+"lifeTimeUpgrade" = "Nâng cấp trọn đời, chỉ ";
+"decimalPlaces0To8" = "Hàng chữ số thập phân phải là một số tự nhiên từ 0 đến 8";
+"decimalPlaces" = "Hàng chữ số thập phân";
+"decimalPlacesAlert" = "Nhập một số tự nhiên từ 0 đến 8";
+"restoreWasSuccessful" = "Khôi phục đã thành công!";
+"premium" = "Cao cấp";
+"back" = "Trở lại";
+"loanCalculator" = "Máy tính Khoản vay";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "Nâng cấp để loại bỏ quảng cáo và mở khóa tất cả các chức năng. Bạn chỉ cần nâng cấp một lần để mở khóa tất cả các tính năng mãi mãi.";
+"calculateLoanPeriods" = "Tính thời gian trả nợ";
+"compareLoans" = "So sánh khoản vay";
+"emailTheResult" = "Gửi kết quả qua email";
+"exportToCSV" = "Xuất sang tệp CSV";
+"setDecimalPlaces" = "Cài đặt hàng chữ số thập phân";
+"removeAds" = "Xóa quảng cáo";
+"supportOurDevelopment" = "Hỗ trợ sự phát triển của chúng tôi";
+"upgrade" = "Nâng cấp";
+"notNow" = "Không phải bây giờ";

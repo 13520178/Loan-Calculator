@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "PO";
+"currency" = "€";
+"theLoanTermTooBigYears" = "Laina-aika (vuosi) on liian iso, yritä uudelleen!";
+"theLoanTermTooBigMonths" = "Laina-aika (kuukausi) on liian suuri, yritä uudelleen!";
+
+"pleaseTapCalculate" = "Napauta Laske-kohdassa Tulo-välilehteä, ennen kuin käytät tätä ominaisuutta";
+"thereWasAnError" = "Syöttöprosessissa tapahtui virhe. Tarkista uudelleen.";
+"theLoanInterestRateTooBig" = "Laina-aika on liian suuri, yritä uudelleen!";
+"youDoNotNeedALoan" = "Maksusi on suurempi kuin maksamasi summa. Et tarvitse lainaa.";
+"anErrorOccurred" = "Tapahtui virhe. Yritä uudelleen.";
+"pleaseDoNotLeaveTheNameBlank" = "Älä jätä nimeä tyhjäksi";
+"createdDate" = "Luontipäivä";
+"year" = "vuosi";
+"years" = "vuotta";
+"month" = "kuukausi";
+"months" = "kuukaudet";
+"day" = "päivä";
+"days" = "päivää";
+"delete" = "Poista";
+"removeAdsAndSupportingOurDevelopment" = "Poista mainokset ja tukee kehitystämme";
+"loanTermMustBeAPositiveInteger" = "Laina-ajan on oltava positiivinen kokonaisluku";
+"appName" = "Lainalaskuri";
+"input" = "Panos";
+"total" = "Kaikki yhteensä";
+"result" = "Tulos";
+"loanTerm" = "Laina-aika";
+"interestRate" = "Korkoprosentti";
+"loanAmount" = "Lainan määrä";
+"totalInterest" = "Kokonaiskorko";
+"youCantCompleteTheLoan" = "Lainaa ei saada päätökseen tämän maksun.";
+"interestRateIsNotNegative" = "Korko ei voi olla negatiivinen";
+"loanAmountIsNotNegative" = "Lainasumma ei voi olla negatiivinen";
+"monthIsNotNegative" = "Kuukaudet eivät voi olla negatiivisia";
+"yearIsNotNegative" = "Vuodet eivät voi olla negatiivisia";
+"paymentIsNotNegative" = "Maksu ei voi olla negatiivinen";
+"paymentFrequency" = "Maksu Taajuus";
+"payment" = "Maksu";
+"numberOfPayment" = "Maksujen lukumäärä";
+"totalRepaid" = "Palautettu yhteensä";
+"paymentIsNotZeroOrBlank" = "Maksun on oltava suurempi kuin 0";
+"loanTermMustBeAPositiveIntegerA" = "Laina-ajan (laina A) on oltava positiivinen kokonaisluku";
+"loanTermMustBeAPositiveIntegerB" = "Laina-ajan (laina B) on oltava positiivinen kokonaisluku";
+"interestRateIsNotNegativeA" = "Korko (laina A) ei voi olla negatiivinen";
+"interestRateIsNotNegativeB" = "Korko (laina B) ei voi olla negatiivinen";
+"loanAmountIsNotNegativeA" = "Lainasumma (laina A) ei voi olla negatiivinen";
+"loanAmountIsNotNegativeB" = "Lainasumma (laina B) ei voi olla negatiivinen";
+"monthIsNotNegativeA" = "Kuukausi (laina A) ei voi olla negatiivinen";
+"monthIsNotNegativeB" = "Kuukausi (laina B) ei voi olla negatiivinen";
+"yearIsNotNegativeA" = "Vuosi (laina A) ei voi olla negatiivinen";
+"yearIsNotNegativeB" = "Vuosi (laina B) ei voi olla negatiivinen";
+"theLoanTermTooBigYearsA" = "Vuosien määrä (laina A) on liian suuri, yritä uudelleen!";
+"theLoanTermTooBigYearsB" = "Vuosien määrä (laina B) on liian suuri, yritä uudelleen!";
+"theLoanTermTooBigMonthsA" = "Kuukausien määrä (laina A) on liian suuri, yritä uudelleen!";
+"theLoanTermTooBigMonthsB" = "Kuukausien määrä (laina B) on liian suuri, yritä uudelleen!";
+"theLoanInterestRateTooBigA" = "Korko (laina A) on liian suuri, yritä uudelleen!";
+"theLoanInterestRateTooBigB" = "Korko (laina B) on liian suuri, yritä uudelleen!";
+"daily" = "Päivittäin";
+"weekly" = "Viikoittain";
+"monthly" = "Kuukausittain";
+"quarterly" = "Neljännesvuosittain";
+"semiannually" = "Puolivuosittain";
+"annually" = "Vuosittain";
+"error" = "Virhe";
+"notification" = "Ilmoituksen";
+"interestRateDefine" = "Korko - vuosikorkoa (APR) on vuotuinen veloitetaan lainaamisesta.";
+"unableToSendMail" = "Pysty lähettämään postia";
+"unableToSendMailDefine" = "Laitteesi ei voi lähettää sähköpostia";
+"paymentEveryDay" = "Maksu joka päivä";
+"paymentEveryWeek" = "Maksu joka viikko";
+"paymentEveryMonth" = "Maksu joka kuukausi";
+"paymentEveryQuarter" = "Maksu joka neljännes";
+"paymentEverySixMonth" = "Maksu 6 kuukauden välein";
+"paymentEveryYear" = "Maksu joka vuosi";
+"interest" = "Korko";
+"principal" = "Lyhennys";
+"balance" = "Jäljellä";
+"amortizationSchedule" = "Kuoletusaikataulun";
+"questionAbout" = "Kysymys lainalaskimesta";
+"edit" = "Muokata";
+"editName" = "Muokkaa nimeä";
+"editPurchaseDate" = "Muokkaa ostopäivä";
+"upgradeAndRemoveAdsDetails0" = "Tämä ominaisuus on lukittu.";
+"upgradeAndRemoveAds" = "Päivitä mainosten poistamiseksi ja kaikkien ominaisuuksien avaamiseksi. Vain ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - Lähetä tulokset sähköpostitse";
+"upgradeAndRemoveAdsDetails2" = "\n - Vie CSV-tiedostoon";
+"upgradeAndRemoveAdsDetails3" = "\n - Laina-ajan laskenta";
+"upgradeAndRemoveAdsDetails4" = "\n - Vertaa lainoja";
+
+"lifeTimeUpgrade" = "Elinikäinen päivitys, vain ";
+"decimalPlaces0To8" = "Desimaalien on oltava luonnollinen luku väliltä 0–8";
+"decimalPlaces" = "Desimaalipaikka";
+"decimalPlacesAlert" = "Syötä luonnollinen luku 0 - 8";
+"restoreWasSuccessful" = "Palautus onnistui!";
+"premium" = "Premium";
+"back" = "Takaisin";
+"loanCalculator" = "Lainalaskuri";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "Poista mainokset ja avaa kaikki toiminnot päivittämällä. Sinun on päivitettävä vain kerran, jotta voit avata kaikki ominaisuudet ikuisesti.";
+"calculateLoanPeriods" = "Velan takaisinmaksu aika laskin";
+"compareLoans" = "Lainojen vertailu";
+"emailTheResult" = "✪ Lähetä tulokset sähköpostitse";
+"exportToCSV" = "✪ Vie CSV -tiedostoon";
+"setDecimalPlaces" = "✪ Aseta desimaalipaikat";
+"removeAds" = "✪ Poista mainokset";
+"supportOurDevelopment" = "✪ Tue kehitystämme";
+"upgrade" = "Päivitä";
+"notNow" = "Ei nyt";

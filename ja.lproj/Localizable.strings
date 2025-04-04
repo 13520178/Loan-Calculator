@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "JAPAN";
+"currency" = "￥";
+"theLoanTermTooBigYears" = "貸付期間（年）が長すぎますので、もう一度お試しください！";
+"theLoanTermTooBigMonths" = "ローン期間（月）が長すぎますので、もう一度お試しください！";
+
+"pleaseTapCalculate" = "この機能を使用する前に、[入力]タブの[計算]をタップしてください";
+"thereWasAnError" = "入力プロセスでエラーが発生しました。もう一度確認してください。";
+"theLoanInterestRateTooBig" = "ローン期間が長すぎますので、もう一度お試しください！";
+"youDoNotNeedALoan" = "あなたの支払いはあなたが支払わなければならない金額よりも多いです。ローンは必要ありません。";
+"anErrorOccurred" = "エラーが発生しました。もう一度やり直してください。";
+"pleaseDoNotLeaveTheNameBlank" = "名前を空白のままにしないでください";
+"createdDate" = "作成日";
+"year" = "年";
+"years" = "年";
+"month" = "月";
+"months" = "ヶ月";
+"day" = "日";
+"days" = "日";
+"delete" = "削除";
+"removeAdsAndSupportingOurDevelopment" = "広告を削除し、開発をサポートする";
+"loanTermMustBeAPositiveInteger" = "ローン期間は正の整数でなければなりません";
+"appName" = "ローン計算機";
+"input" = "入力";
+"total" = "合計";
+"result" = "結果";
+"loanTerm" = "ローン期間";
+"interestRate" = "金利";
+"loanAmount" = "ローン金額";
+"totalInterest" = "総利息";
+"youCantCompleteTheLoan" = "この支払いではローンを完了できません。";
+"interestRateIsNotNegative" = "金利をマイナスにすることはできません";
+"loanAmountIsNotNegative" = "ローン金額をマイナスにすることはできません";
+"monthIsNotNegative" = "月をマイナスにすることはできません";
+"yearIsNotNegative" = "年をマイナスにすることはできません";
+"paymentIsNotNegative" = "支払いをマイナスにすることはできません";
+"paymentFrequency" = "支払い頻度";
+"payment" = "支払い";
+"numberOfPayment" = "支払い回数";
+"totalRepaid" = "返済総額";
+"paymentIsNotZeroOrBlank" = "支払いは0より大きい数でなければなりません";
+"loanTermMustBeAPositiveIntegerA" = "ローン期間（ローンA）は正の整数でなければなりません";
+"loanTermMustBeAPositiveIntegerB" = "ローン期間（ローンB）は正の整数でなければなりません";
+"interestRateIsNotNegativeA" = "金利（ローンA）をマイナスにすることはできません";
+"interestRateIsNotNegativeB" = "金利（ローンB）をマイナスにすることはできません";
+"loanAmountIsNotNegativeA" = "ローン金額（ローンA）をマイナスにすることはできません";
+"loanAmountIsNotNegativeB" = "ローン金額（ローンB）をマイナスにすることはできません";
+"monthIsNotNegativeA" = "月（ローンA）をマイナスにすることはできません";
+"monthIsNotNegativeB" = "月（ローンB）をマイナスにすることはできません";
+"yearIsNotNegativeA" = "年（ローンA）をマイナスにすることはできません";
+"yearIsNotNegativeB" = "年（ローンB）をマイナスにすることはできません";
+"theLoanTermTooBigYearsA" = "年数（ローンA）が多すぎますので、もう一度お試しください！";
+"theLoanTermTooBigYearsB" = "年数（ローンB）が多すぎますので、もう一度お試しください！";
+"theLoanTermTooBigMonthsA" = "月数（ローンA）が多すぎますので、もう一度お試しください！";
+"theLoanTermTooBigMonthsB" = "月数（ローンB）が多すぎますので、もう一度お試しください！";
+"theLoanInterestRateTooBigA" = "金利（ローンA）が高すぎますので、もう一度お試しください！";
+"theLoanInterestRateTooBigB" = "金利（ローンB）が高すぎます。もう一度お試しください。";
+"daily" = "毎日";
+"weekly" = "毎週";
+"monthly" = "毎月";
+"quarterly" = "四半期ごと";
+"semiannually" = "半年毎";
+"annually" = "毎年";
+"error" = "エラー";
+"notification" = "お知らせ";
+"interestRateDefine" = "利率-年利（APR）は、借入に対して請求される年利です。";
+"unableToSendMail" = "メールを送信できません";
+"unableToSendMailDefine" = "お使いのデバイスはメールを送信できません";
+"paymentEveryDay" = "毎日の支払い";
+"paymentEveryWeek" = "毎週の支払い";
+"paymentEveryMonth" = "毎月の支払い";
+"paymentEveryQuarter" = "四半期ごとの支払い";
+"paymentEverySixMonth" = "6ヶ月ごとの支払い";
+"paymentEveryYear" = "毎年の支払い";
+"interest" = "利息";
+"principal" = "元金";
+"balance" = "残高";
+"amortizationSchedule" = "償却スケジュール";
+"questionAbout" = "ローン計算機に関する質問";
+"edit" = "編集";
+"editName" = "名前の編集";
+"editPurchaseDate" = "購入日を編集する";
+"upgradeAndRemoveAdsDetails0" = "この機能はロックされています。";
+"upgradeAndRemoveAds" = "アップグレードして広告を削除し、すべての機能のロックを解除します。 たったの ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - 結果をメールで送信";
+"upgradeAndRemoveAdsDetails2" = "\n - CSVファイルにエクスポート";
+"upgradeAndRemoveAdsDetails3" = "\n - ローン期間の計算";
+"upgradeAndRemoveAdsDetails4" = "\n - ローンを比較する";
+
+"lifeTimeUpgrade" = "生涯アップグレード、たったの ";
+"decimalPlaces0To8" = "小数点以下の桁数は、0から8までの自然数でなければなりません";
+"decimalPlaces" = "小数点以下の桁数";
+"decimalPlacesAlert" = "0から8までの自然数を入力します";
+"restoreWasSuccessful" = "復元に成功しました";
+"premium" = "プレミアム";
+"back" = "戻る";
+"loanCalculator" = "ローン計算機";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "アップグレードして広告を削除し、すべての機能のロックを解除します。 すべての機能のロックを永久に解除するには、一度アップグレードするだけで済みます。";
+"calculateLoanPeriods" = "返済期間計算機";
+"compareLoans" = "ローンの比較";
+"emailTheResult" = "✪ 結果をメールで送信";
+"exportToCSV" = "✪ CSVファイルにエクスポート";
+"setDecimalPlaces" = "✪ 小数位を設定する";
+"removeAds" = "✪ 広告を削除";
+"supportOurDevelopment" = "✪ 私たちの開発をサポートする";
+"upgrade" = "アップグレード";
+"notNow" = "今はやめろ";

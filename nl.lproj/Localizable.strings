@@ -1,0 +1,115 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "HALAN";
+"currency" = "€";
+"theLoanTermTooBigYears" = "De uitleentermijn (jaar) is te lang, probeer het opnieuw!";
+"theLoanTermTooBigMonths" = "De uitleentermijn (maand) is te lang, probeer het opnieuw!";
+
+"pleaseTapCalculate" = "Tik op Berekenen op het tabblad Invoer voordat u deze functie gebruikt";
+"thereWasAnError" = "Er is een fout opgetreden tijdens het invoerproces. Controleer het opnieuw.";
+"theLoanInterestRateTooBig" = "De uitleentermijn is te lang, probeer het opnieuw!";
+"youDoNotNeedALoan" = "Uw betaling is hoger dan het bedrag dat u moet betalen. U heeft geen lening nodig.";
+"anErrorOccurred" = "Er is een fout opgetreden, probeer het opnieuw.";
+"pleaseDoNotLeaveTheNameBlank" = "Laat de naam niet leeg";
+"createdDate" = "Datum gemaakt";
+"year" = "jaar";
+"years" = "jaar";
+"month" = "maand";
+"months" = "maanden";
+"day" = "dag";
+"days" = "dagen";
+"delete" = "Verwijderen";
+"removeAdsAndSupportingOurDevelopment" = "Verwijder advertenties en ondersteun onze ontwikkeling";
+"loanTermMustBeAPositiveInteger" = "De leentermijn moet een positief geheel getal zijn";
+"appName" = "Leningberekenaar";
+"input" = "Invoer";
+"total" = "Totaal";
+"result" = "Resultaat";
+"loanTerm" = "Leningstermijn";
+"interestRate" = "Rentetarief";
+"loanAmount" = "Leenbedrag";
+"totalInterest" = "Totale rente";
+"youCantCompleteTheLoan" = "Met deze betaling kan de lening niet worden afgerond.";
+"interestRateIsNotNegative" = "Rentetarief kan niet negatief zijn";
+"loanAmountIsNotNegative" = "Leningbedrag mag niet negatief zijn";
+"monthIsNotNegative" = "Maanden kunnen niet negatief zijn";
+"yearIsNotNegative" = "Jaren kunnen niet negatief zijn";
+"paymentIsNotNegative" = "Betaling mag niet negatief zijn";
+"paymentFrequency" = "Betalings frequentie";
+"payment" = "Betaling";
+"numberOfPayment" = "Aantal betalingen";
+"totalRepaid" = "Totaal terugbetaald";
+"paymentIsNotZeroOrBlank" = "De betaling moet een getal zijn dat groter is dan 0";
+"loanTermMustBeAPositiveIntegerA" = "Leentermijn (lening A) moet een positief geheel getal zijn";
+"loanTermMustBeAPositiveIntegerB" = "Leentermijn (lening B) moet een positief geheel getal zijn";
+"interestRateIsNotNegativeA" = "Rentevoet (lening A) mag niet negatief zijn";
+"interestRateIsNotNegativeB" = "Rentevoet (lening B) mag niet negatief zijn";
+"loanAmountIsNotNegativeA" = "Leningbedrag (Lening A) mag niet negatief zijn";
+"loanAmountIsNotNegativeB" = "Leningbedrag (Lening B) mag niet negatief zijn";
+"monthIsNotNegativeA" = "Maand (lening A) mag niet negatief zijn";
+"monthIsNotNegativeB" = "Maand (lening B) mag niet negatief zijn";
+"yearIsNotNegativeA" = "Jaar (lening A) mag niet negatief zijn";
+"yearIsNotNegativeB" = "Jaar (lening B) mag niet negatief zijn";
+"theLoanTermTooBigYearsA" = "Het aantal jaren (lening A) is te groot, probeer het opnieuw!";
+"theLoanTermTooBigYearsB" = "Het aantal jaren (lening B) is te groot, probeer het opnieuw!";
+"theLoanTermTooBigMonthsA" = "Het aantal maanden (lening A) is te groot, probeer het opnieuw!";
+"theLoanTermTooBigMonthsB" = "Het aantal maanden (lening B) is te groot, probeer het opnieuw!";
+"theLoanInterestRateTooBigA" = "De rentevoet (lening A) is te hoog, probeer het opnieuw!";
+"theLoanInterestRateTooBigB" = "De rentevoet (lening B) is te hoog, probeer het opnieuw!";
+"daily" = "Dagelijks";
+"weekly" = "Wekelijks";
+"monthly" = "Maandelijks";
+"quarterly" = "Per kwartaal";
+"semiannually" = "Halfjaarlijks";
+"annually" = "jaarlijks";
+"error" = "Fout";
+"notification" = "Kennisgeving";
+"interestRateDefine" = "Rentetarief - Een jaarlijks rentepercentage (JKP) is het jaarlijkse rentetarief dat in rekening wordt gebracht voor leningen.";
+"unableToSendMail" = "Kan geen e-mail verzenden";
+"unableToSendMailDefine" = "Uw apparaat kan geen e-mail verzenden";
+"paymentEveryDay" = "Betaling elke dag";
+"paymentEveryWeek" = "Betaling elke week";
+"paymentEveryMonth" = "Betaling elke maand";
+"paymentEveryQuarter" = "Betaling elk kwartaal";
+"paymentEverySixMonth" = "Betaling elke 6 maanden";
+"paymentEveryYear" = "Betaling elk jaar";
+"interest" = "Rente";
+"principal" = "Aflossing exclusief rente";
+"balance" = "Saldo";
+"amortizationSchedule" = "Aflossingsschema";
+"questionAbout" = "Vraag over Leningcalculator";
+"edit" = "Bewerk";
+"editName" = "Naam bewerken";
+"editPurchaseDate" = "Bewerk de aankoopdatum";
+"upgradeAndRemoveAdsDetails0" = "Deze functie is vergrendeld.";
+"upgradeAndRemoveAds" = "Upgrade om advertenties te verwijderen en alle functies te ontgrendelen. Slechts ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - E-mail de resultaten";
+"upgradeAndRemoveAdsDetails2" = "\n - Exporteren naar CSV-bestand";
+"upgradeAndRemoveAdsDetails3" = "\n - Berekening van de uitleenperiode";
+"upgradeAndRemoveAdsDetails4" = "\n - Vergelijk leningen";
+
+"lifeTimeUpgrade" = "Levenslange upgrade, slechts ";
+"decimalPlaces0To8" = "Decimale getallen moeten een natuurlijk getal zijn tussen 0 en 8";
+"decimalPlaces" = "Decimale plaatsen";
+"decimalPlacesAlert" = "Voer een natuurlijk getal in van 0 tot 8";
+"restoreWasSuccessful" = "Het herstellen is gelukt!";
+"premium" = "Premium";
+"back" = "Terug";
+"loanCalculator" = "Lening Berekenen";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "Upgrade om advertenties te verwijderen en alle functies te ontgrendelen. U hoeft maar één keer te upgraden om alle functies voor altijd te ontgrendelen.";
+"calculateLoanPeriods" = "Rekenmachine voor terugbetalingsperiode";
+"compareLoans" = "Leningen vergelijking";
+"emailTheResult" = "✪ E-mail de resultaten";
+"exportToCSV" = "✪ Exporteren naar CSV-bestand";
+"setDecimalPlaces" = "✪ Decimale plaatsen instellen";
+"removeAds" = "✪ Verwijder advertenties";
+"supportOurDevelopment" = "✪ Steun onze ontwikkeling";
+"upgrade" = "Upgrade";
+"notNow" = "Niet nu";
+

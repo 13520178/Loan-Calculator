@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "VN";
+"currency" = "kr";
+"theLoanTermTooBigYears" = "Låneperioden (år) er for stor, prøv igen!";
+"theLoanTermTooBigMonths" = "Låneperioden (måned) er for stor, prøv igen!";
+
+"pleaseTapCalculate" = "Tryk på Beregn under fanen Input, inden du bruger denne funktion";
+"thereWasAnError" = "Der opstod en fejl i inputprocessen. Kontroller igen.";
+"theLoanInterestRateTooBig" = "Lånetiden er for stor, prøv igen!";
+"youDoNotNeedALoan" = "Din betaling er større end det beløb, du skal betale. Du har ikke brug for et lån.";
+"anErrorOccurred" = "Der opstod en fejl. Prøv igen.";
+"pleaseDoNotLeaveTheNameBlank" = "Lad ikke navnet være tomt";
+"createdDate" = "Oprettet dato";
+"year" = "år";
+"years" = "år";
+"month" = "måned";
+"months" = "måneder";
+"day" = "dag";
+"days" = "dage";
+"delete" = "Slet";
+"removeAdsAndSupportingOurDevelopment" = "Fjern annoncer og understøtter vores udvikling";
+"loanTermMustBeAPositiveInteger" = "Låneperioden skal være et positivt heltal";
+"appName" = "Låneberegner";
+"input" = "Indgang";
+"total" = "Total";
+"result" = "Resultat";
+"loanTerm" = "låneperiode";
+"interestRate" = "rentesats";
+"loanAmount" = "Lånebeløb";
+"totalInterest" = "Total Renter";
+"youCantCompleteTheLoan" = "Lånet kan ikke gennemføres med denne betaling.";
+"interestRateIsNotNegative" = "Rentesatsen kan ikke være negativ";
+"loanAmountIsNotNegative" = "Lånebeløb kan ikke være negativt";
+"monthIsNotNegative" = "Måneder kan ikke være negative";
+"yearIsNotNegative" = "År kan ikke være negative";
+"paymentIsNotNegative" = "Betaling kan ikke være negativ";
+"paymentFrequency" = "Betalingsfrekvens";
+"payment" = "Udbetaling";
+"numberOfPayment" = "Antal betalinger";
+"totalRepaid" = "I alt tilbagebetalt";
+"paymentIsNotZeroOrBlank" = "Betaling skal være et tal større end 0";
+"loanTermMustBeAPositiveIntegerA" = "Lånetid (lån A) skal være et positivt heltal";
+"loanTermMustBeAPositiveIntegerB" = "Lånetid (lån B) skal være et positivt heltal";
+"interestRateIsNotNegativeA" = "Rentesats (lån A) kan ikke være negativ";
+"interestRateIsNotNegativeB" = "Rentesats (lån B) kan ikke være negativ";
+"loanAmountIsNotNegativeA" = "Lånebeløb (lån A) kan ikke være negativt";
+"loanAmountIsNotNegativeB" = "Lånebeløb (lån B) kan ikke være negativt";
+"monthIsNotNegativeA" = "Måned (lån A) kan ikke være negativ";
+"monthIsNotNegativeB" = "Måned (lån B) kan ikke være negativ";
+"yearIsNotNegativeA" = "År (lån A) kan ikke være negativt";
+"yearIsNotNegativeB" = "År (lån B) kan ikke være negativt";
+"theLoanTermTooBigYearsA" = "Antallet af år (lån A) er for stort, prøv igen!";
+"theLoanTermTooBigYearsB" = "Antallet af år (lån B) er for stort, prøv igen!";
+"theLoanTermTooBigMonthsA" = "Antallet af måneder (lån A) er for stort, prøv igen!";
+"theLoanTermTooBigMonthsB" = "Antallet af måneder (lån B) er for stort, prøv igen!";
+"theLoanInterestRateTooBigA" = "Rentesatsen (lån A) er for stor, prøv igen!";
+"theLoanInterestRateTooBigB" = "Rentesatsen (lån B) er for stor, prøv igen!";
+"daily" = "Daglige";
+"weekly" = "Ugentlig";
+"monthly" = "Månedlige";
+"quarterly" = "Kvartalsvis";
+"semiannually" = "Halvårligt";
+"annually" = "Årligt";
+"error" = "Fejl";
+"notification" = "Notifikation";
+"interestRateDefine" = "Rente - En årlig procentsats (APR) er den årlige rente, der opkræves for låntagning.";
+"unableToSendMail" = "Kan ikke sende mail";
+"unableToSendMailDefine" = "Din enhed kan ikke sende e-mail";
+"paymentEveryDay" = "Betaling hver dag";
+"paymentEveryWeek" = "Betaling hver uge";
+"paymentEveryMonth" = "Betaling hver måned";
+"paymentEveryQuarter" = "Betaling hvert kvartal";
+"paymentEverySixMonth" = "Betaling hver 6. måned";
+"paymentEveryYear" = "Betaling hvert år";
+"interest" = "Interesse";
+"principal" = "Hovedstol";
+"balance" = "Balance";
+"amortizationSchedule" = "amortiseringsplan";
+"questionAbout" = "Spørgsmål om låneberegner";
+"edit" = "Edit";
+"editName" = "Rediger navn";
+"editPurchaseDate" = "Rediger købsdato";
+"upgradeAndRemoveAdsDetails0" = "Denne funktion er låst.";
+"upgradeAndRemoveAds" = "Opgrader for at fjerne annoncer og låse op for alle funktioner. Kun ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - Send resultaterne via e-mail";
+"upgradeAndRemoveAdsDetails2" = "\n - Eksporter til CSV-fil";
+"upgradeAndRemoveAdsDetails3" = "\n - Beregning af låneperioden";
+"upgradeAndRemoveAdsDetails4" = "\n - Sammenlign lån";
+
+"lifeTimeUpgrade" = "Livstids Opgradering, kun ";
+"decimalPlaces0To8" = "Decimaler skal være et naturligt tal mellem 0 og 8";
+"decimalPlaces" = "Decimalpladser";
+"decimalPlacesAlert" = "Indtast et naturligt tal fra 0 til 8";
+"restoreWasSuccessful" = "Gendannelsen lykkedes!";
+"premium" = "Premium";
+"back" = "Tilbage";
+"loanCalculator" = "Låneberegner";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "Opgrader for at fjerne annoncer og låse alle funktioner op. Du behøver kun at opgradere én gang for at låse alle funktioner op for evigt.";
+"calculateLoanPeriods" = "Lommeregner for tilbagebetalingstid";
+"compareLoans" = "Sammenligning af lån";
+"emailTheResult" = "✪ Send resultaterne via e -mail";
+"exportToCSV" = "✪ Eksporter til CSV -fil";
+"setDecimalPlaces" = "✪ Indstil decimal placeringer";
+"removeAds" = "✪ Fjern annoncer";
+"supportOurDevelopment" = "✪ Støt vores udvikling";
+"upgrade" = "Opgrader";
+"notNow" = "Ikke nu";

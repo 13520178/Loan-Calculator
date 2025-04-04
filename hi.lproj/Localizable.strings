@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "US";
+"currency" = "₹";
+"theLoanTermTooBigYears" = "ऋण अवधि (वर्ष) बहुत बड़ी है, कृपया पुनः प्रयास करें!";
+"theLoanTermTooBigMonths" = "ऋण अवधि (महीना) बहुत बड़ा है, कृपया पुनः प्रयास करें!";
+
+"pleaseTapCalculate" = "कृपया इस सुविधा का उपयोग करने से पहले इनपुट टैब के अंतर्गत गणना पर टैप करें";
+"thereWasAnError" = "इनपुट प्रक्रिया में कोई त्रुटि थी, कृपया पुनः जाँच करें।";
+"theLoanInterestRateTooBig" = "ऋण की अवधि बहुत बड़ी है, कृपया पुनः प्रयास करें!";
+"youDoNotNeedALoan" = "आपका भुगतान आपके द्वारा भुगतान की गई राशि से अधिक है। आपको लोन की जरूरत नहीं है।";
+"anErrorOccurred" = "एक त्रुटि पाई गई। कृपया पुन: प्रयास करें।";
+"pleaseDoNotLeaveTheNameBlank" = "कृपया नाम खाली न रखें";
+"createdDate" = "रचना तिथि";
+"year" = "साल";
+"years" = "वर्षों";
+"month" = "महीना";
+"months" = "महीने";
+"day" = "दिन";
+"days" = "दिन";
+"delete" = "हटाएं";
+"removeAdsAndSupportingOurDevelopment" = "विज्ञापन निकालें और हमारे विकास का समर्थन करें";
+"loanTermMustBeAPositiveInteger" = "ऋण शब्द एक सकारात्मक पूर्णांक होना चाहिए";
+"appName" = "ऋण गणक";
+"input" = "इनपुट";
+"total" = "कुल";
+"result" = "परिणाम";
+"loanTerm" = "ऋण की अवधि";
+"interestRate" = "ब्याज दर";
+"loanAmount" = "ऋण की राशि";
+"totalInterest" = "कुल ब्याज";
+"youCantCompleteTheLoan" = "इस भुगतान के साथ ऋण पूरा नहीं किया जा सकता है।";
+"interestRateIsNotNegative" = "ब्याज दर ऋणात्मक नहीं हो सकती";
+"loanAmountIsNotNegative" = "ऋण राशि ऋणात्मक नहीं हो सकती";
+"monthIsNotNegative" = "महीने नकारात्मक नहीं हो सकते";
+"yearIsNotNegative" = "साल नकारात्मक नहीं हो सकते";
+"paymentIsNotNegative" = "भुगतान नकारात्मक नहीं हो सकता";
+"paymentFrequency" = "भुगतान आवृत्ति";
+"payment" = "भुगतान";
+"numberOfPayment" = "भुगतानों की संख्या";
+"totalRepaid" = "कुल रिफंड की गई राशि";
+"paymentIsNotZeroOrBlank" = "भुगतान 0 से अधिक होना चाहिए";
+"loanTermMustBeAPositiveIntegerA" = "लोन टर्म (ऋण ए) एक सकारात्मक पूर्णांक होना चाहिए";
+"loanTermMustBeAPositiveIntegerB" = "ऋण अवधि (लोन बी) एक सकारात्मक पूर्णांक होना चाहिए";
+"interestRateIsNotNegativeA" = "ब्याज दर (ऋण A) ऋणात्मक नहीं हो सकती है";
+"interestRateIsNotNegativeB" = "ब्याज दर (ऋण B) ऋणात्मक नहीं हो सकती";
+"loanAmountIsNotNegativeA" = "ऋण राशि (ऋण A) ऋणात्मक नहीं हो सकती";
+"loanAmountIsNotNegativeB" = "ऋण राशि (ऋण B) ऋणात्मक नहीं हो सकती";
+"monthIsNotNegativeA" = "महीना (ऋण A) ऋणात्मक नहीं हो सकता";
+"monthIsNotNegativeB" = "महीना (ऋण B) ऋणात्मक नहीं हो सकता";
+"yearIsNotNegativeA" = "वर्ष (ऋण A) ऋणात्मक नहीं हो सकता";
+"yearIsNotNegativeB" = "वर्ष (ऋण B) ऋणात्मक नहीं हो सकता";
+"theLoanTermTooBigYearsA" = "वर्षों की संख्या (ऋण A) बहुत बड़ी है, कृपया पुनः प्रयास करें!";
+"theLoanTermTooBigYearsB" = "वर्षों की संख्या (ऋण B) बहुत बड़ी है, कृपया पुनः प्रयास करें!";
+"theLoanTermTooBigMonthsA" = "महीनों की संख्या (ऋण A) बहुत बड़ी है, कृपया पुनः प्रयास करें!";
+"theLoanTermTooBigMonthsB" = "महीनों की संख्या (ऋण B) बहुत बड़ी है, कृपया पुनः प्रयास करें!";
+"theLoanInterestRateTooBigA" = "ब्याज दर (ऋण A) बहुत बड़ी है, कृपया पुनः प्रयास करें!";
+"theLoanInterestRateTooBigB" = "ब्याज दर (ऋण B) बहुत बड़ी है, कृपया पुनः प्रयास करें!";
+"daily" = "रोज";
+"weekly" = "साप्ताहिक";
+"monthly" = "महीने के";
+"quarterly" = "त्रैमासिक";
+"semiannually" = "अर्धवार्षिक";
+"annually" = "हर साल";
+"error" = "त्रुटि";
+"notification" = "अधिसूचना";
+"interestRateDefine" = "ब्याज दर - एक वार्षिक प्रतिशत दर (APR) उधार लेने के लिए ली जाने वाली वार्षिक दर है।";
+"unableToSendMail" = "मेल भेजने में असमर्थ";
+"unableToSendMailDefine" = "आपका उपकरण मेल नहीं भेज सकता है";
+"paymentEveryDay" = "हर दिन भुगतान";
+"paymentEveryWeek" = "हर सप्ताह भुगतान";
+"paymentEveryMonth" = "हर महीने भुगतान";
+"paymentEveryQuarter" = "भुगतान हर तिमाही";
+"paymentEverySixMonth" = "हर 6 महीने में भुगतान";
+"paymentEveryYear" = "हर साल भुगतान";
+"interest" = "ब्याज";
+"principal" = "मूलधन";
+"balance" = "शेष राशि";
+"amortizationSchedule" = "ऋणमुक्ति शेड्युल";
+"questionAbout" = "ऋण कैलकुलेटर के बारे में प्रश्न";
+"edit" = "संपादित करें";
+"editName" = "नाम संपादित करें";
+"editPurchaseDate" = "खरीद दिनांक संपादित करें";
+"upgradeAndRemoveAdsDetails0" = "यह सुविधा लॉक कर दी गई है।";
+"upgradeAndRemoveAds" = "विज्ञापनों को हटाने और सभी सुविधाओं को अनलॉक करने के लिए अपग्रेड करें। केवल ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - परिणाम ईमेल करें";
+"upgradeAndRemoveAdsDetails2" = "\n - CSV फ़ाइल में निर्यात करें";
+"upgradeAndRemoveAdsDetails3" = "\n - ऋण की अवधि की गणना";
+"upgradeAndRemoveAdsDetails4" = "\n - ऋणों की तुलना करें";
+
+"lifeTimeUpgrade" = "आजीवन अपग्रेड, केवल ";
+"decimalPlaces0To8" = "दशमलव स्थान 0 और 8 के बीच एक प्राकृत संख्या होनी चाहिए।";
+"decimalPlaces" = "दशमलव स्थानों";
+"decimalPlacesAlert" = "0 से 8 तक एक प्राकृत संख्या दर्ज करें।";
+"restoreWasSuccessful" = "पुनर्स्थापना सफल रही!";
+"premium" = "प्रीमियम";
+"back" = "पीछे";
+"loanCalculator" = "ऋण गणक";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "विज्ञापनों को हटाने और सभी कार्यों को अनलॉक करने के लिए अपग्रेड करें। सभी सुविधाओं को हमेशा के लिए अनलॉक करने के लिए आपको केवल एक बार अपग्रेड करना होगा।";
+"calculateLoanPeriods" = "चुकौती अवधि कैलक्यूलेटर";
+"compareLoans" = "ऋण तुलना";
+"emailTheResult" = "✪ ई मेल द्वारा परिणाम भेजें";
+"exportToCSV" = "✪ CSV फ़ाइल में निर्यात करें";
+"setDecimalPlaces" = "✪ दशमलव स्थान सेट करें";
+"removeAds" = "✪ विज्ञापन हटाएँ";
+"supportOurDevelopment" = "✪ हमारे विकास का समर्थन करें";
+"upgrade" = "अपग्रेड";
+"notNow" = "अभी नहीं";

@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "BRA";
+"currency" = "R$";
+"theLoanTermTooBigYears" = "O prazo do empréstimo (ano) é muito grande, tente novamente!";
+"theLoanTermTooBigMonths" = "O prazo do empréstimo (mês) é muito grande, tente novamente!";
+
+"pleaseTapCalculate" = "Toque em Calcular na guia Entrada antes de usar este recurso";
+"thereWasAnError" = "Ocorreu um erro no processo de entrada, verifique novamente.";
+"theLoanInterestRateTooBig" = "O prazo do empréstimo é muito grande, tente novamente!";
+"youDoNotNeedALoan" = "Seu pagamento é maior do que o valor que você deve pagar. Você não precisa de um empréstimo.";
+"anErrorOccurred" = "Ocorreu um erro. Por favor, tente novamente.";
+"pleaseDoNotLeaveTheNameBlank" = "Por favor não deixe o nome em branco";
+"createdDate" = "Data de criação";
+"year" = "ano";
+"years" = "anos";
+"month" = "mês";
+"months" = "meses";
+"day" = "dia";
+"days" = "dias";
+"delete" = "Excluir";
+"removeAdsAndSupportingOurDevelopment" = "Remover anúncios e apoiar nosso desenvolvimento";
+"loanTermMustBeAPositiveInteger" = "O prazo do empréstimo deve ser um número inteiro positivo";
+"appName" = "Simulador de Empréstimos";
+"input" = "Entrada";
+"total" = "Total";
+"result" = "Resultado";
+"loanTerm" = "Prazo de Empréstimo";
+"interestRate" = "Taxa de juro";
+"loanAmount" = "Valor do empréstimo";
+"totalInterest" = "Juros Total";
+"youCantCompleteTheLoan" = "O empréstimo não pode ser concluído com este pagamento.";
+"interestRateIsNotNegative" = "Taxa de juros não pode ser negativa";
+"loanAmountIsNotNegative" = "O valor do empréstimo não pode ser negativo";
+"monthIsNotNegative" = "Os meses não podem ser negativos";
+"yearIsNotNegative" = "Anos não podem ser negativos";
+"paymentIsNotNegative" = "Pagamento não pode ser negativo";
+"paymentFrequency" = "Frequência de Pagamento";
+"payment" = "Pagamento";
+"numberOfPayment" = "Número de Pagamento";
+"totalRepaid" = "Total de reembolso";
+"paymentIsNotZeroOrBlank" = "O pagamento deve ser um número maior que 0";
+"loanTermMustBeAPositiveIntegerA" = "Prazo do empréstimo (empréstimo A) deve ser um número inteiro positivo";
+"loanTermMustBeAPositiveIntegerB" = "Prazo do empréstimo (empréstimo B) deve ser um número inteiro positivo";
+"interestRateIsNotNegativeA" = "Taxa de juros (empréstimo A) não pode ser negativa";
+"interestRateIsNotNegativeB" = "Taxa de juros (empréstimo B) não pode ser negativa";
+"loanAmountIsNotNegativeA" = "O valor do empréstimo (empréstimo A) não pode ser negativo";
+"loanAmountIsNotNegativeB" = "O valor do empréstimo (empréstimo B) não pode ser negativo";
+"monthIsNotNegativeA" = "Mês (Empréstimo A) não pode ser negativo";
+"monthIsNotNegativeB" = "Mês (Empréstimo B) não pode ser negativo";
+"yearIsNotNegativeA" = "Ano (Empréstimo A) não pode ser negativo";
+"yearIsNotNegativeB" = "Ano (empréstimo B) não pode ser negativo";
+"theLoanTermTooBigYearsA" = "O número de anos (empréstimo A) é muito grande, tente novamente!";
+"theLoanTermTooBigYearsB" = "O número de anos (empréstimo B) é muito grande, tente novamente!";
+"theLoanTermTooBigMonthsA" = "O número de meses (Empréstimo A) é muito grande, tente novamente!";
+"theLoanTermTooBigMonthsB" = "O número de meses (empréstimo B) é muito grande, tente novamente!";
+"theLoanInterestRateTooBigA" = "A taxa de juros (empréstimo A) é muito alta, tente novamente!";
+"theLoanInterestRateTooBigB" = "A taxa de juros (empréstimo B) é muito alta, tente novamente!";
+"daily" = "Diariamente";
+"weekly" = "Semanal";
+"monthly" = "Mensal";
+"quarterly" = "Trimestral";
+"semiannually" = "Semi anualmente";
+"annually" = "Anualmente";
+"error" = "Erro";
+"notification" = "Notificação";
+"interestRateDefine" = "Taxa de juros - Uma taxa de porcentagem anual (APR) é a taxa anual cobrada pelo empréstimo.";
+"unableToSendMail" = "Incapaz de enviar correio";
+"unableToSendMailDefine" = "Seu dispositivo não pode enviar e-mail";
+"paymentEveryDay" = "Pagamento todos os dias";
+"paymentEveryWeek" = "Pagamento todas as semanas";
+"paymentEveryMonth" = "Pagamento a cada mês";
+"paymentEveryQuarter" = "Pagamento a cada trimestre";
+"paymentEverySixMonth" = "Pagamento a cada 6 meses";
+"paymentEveryYear" = "Pagamento Anual";
+"interest" = "Juro";
+"principal" = "Principal";
+"balance" = "Saldo";
+"amortizationSchedule" = "Cronograma de Amortização";
+"questionAbout" = "Pergunta sobre Simulador de Empréstimos";
+"edit" = "Editar";
+"editName" = "Editar nome";
+"editPurchaseDate" = "Editar data de compra";
+"upgradeAndRemoveAdsDetails0" = "Este recurso está bloqueado.";
+"upgradeAndRemoveAds" = "Faça upgrade para remover anúncios e desbloquear todos os recursos. Somente ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - Enviar os resultados por e-mail";
+"upgradeAndRemoveAdsDetails2" = "\n - Exportar para arquivo CSV";
+"upgradeAndRemoveAdsDetails3" = "\n - Cálculo do período de empréstimo";
+"upgradeAndRemoveAdsDetails4" = "\n - Compare Empréstimos";
+
+"lifeTimeUpgrade" = "Upgrade vitalício, apenas ";
+"decimalPlaces0To8" = "As casas decimais devem ser um número natural entre 0 e 8";
+"decimalPlaces" = "Casas decimais";
+"decimalPlacesAlert" = "Insira um número natural de 0 a 8";
+"restoreWasSuccessful" = "A restauração foi bem-sucedida!";
+"premium" = "Premium";
+"back" = "Voltar";
+"loanCalculator" = "Calculadora de Empréstimos";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "Atualize para remover anúncios e desbloquear todas as funções. Você só precisa atualizar uma vez para desbloquear todos os recursos para sempre.";
+"calculateLoanPeriods" = "Calculadora do período de reembolso";
+"compareLoans" = "Comparação de empréstimos";
+"emailTheResult" = "✪ Enviar os resultados por e-mail";
+"exportToCSV" = "✪ Exportar para arquivo CSV";
+"setDecimalPlaces" = "✪ Definir casas decimais";
+"removeAds" = "✪ Remover propagandas";
+"supportOurDevelopment" = "✪ Apoie Nosso Desenvolvimento";
+"upgrade" = "Atualizar";
+"notNow" = "Agora não";

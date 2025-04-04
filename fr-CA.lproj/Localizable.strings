@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "FR";
+"currency" = "$";
+"theLoanTermTooBigYears" = "La durée du prêt (année) est trop élevée, veuillez réessayer!";
+"theLoanTermTooBigMonths" = "La durée du prêt (mois) est trop élevée, veuillez réessayer!";
+
+"pleaseTapCalculate" = "Veuillez appuyer sur Calculer sous l'onglet Entrée avant d'utiliser cette fonctionnalité";
+"thereWasAnError" = "Une erreur s'est produite lors du processus de saisie, veuillez vérifier à nouveau.";
+"theLoanInterestRateTooBig" = "La durée du prêt est trop longue, veuillez réessayer!";
+"youDoNotNeedALoan" = "Votre paiement est supérieur au montant que vous devez payer. Vous n'avez pas besoin de prêt.";
+"anErrorOccurred" = "Une erreur s'est produite, veuillez réessayer.";
+"pleaseDoNotLeaveTheNameBlank" = "Veuillez ne pas laisser le nom vide";
+"createdDate" = "Date de création";
+"year" = "année";
+"years" = "ans";
+"month" = "mois";
+"months" = "mois";
+"day" = "journée";
+"days" = "journées";
+"delete" = "Supprimez";
+"removeAdsAndSupportingOurDevelopment" = "Supprimer les publicités et soutenir notre développement";
+"loanTermMustBeAPositiveInteger" = "La durée du prêt doit être un entier positif";
+"appName" = "Calculatrice de prêt";
+"input" = "Input";
+"total" = "Total";
+"result" = "Résultat";
+"loanTerm" = "Durée emprunt";
+"interestRate" = "Taux d'intérêt";
+"loanAmount" = "Montant du prêt";
+"totalInterest" = "Total des intérêts";
+"youCantCompleteTheLoan" = "Le prêt ne peut pas être complété avec ce paiement.";
+"interestRateIsNotNegative" = "Le taux d'intérêt ne peut pas être négatif";
+"loanAmountIsNotNegative" = "Le montant du prêt ne peut pas être négatif";
+"monthIsNotNegative" = "Les mois ne peuvent pas être négatifs";
+"yearIsNotNegative" = "Les années ne peuvent pas être négatives";
+"paymentIsNotNegative" = "Le paiement ne peut pas être négatif";
+"paymentFrequency" = "Fréquence des versements";
+"payment" = "Versement";
+"numberOfPayment" = "Nombre de versements";
+"totalRepaid" = "Total remboursé";
+"paymentIsNotZeroOrBlank" = "Le paiement doit être un nombre supérieur à 0";
+"loanTermMustBeAPositiveIntegerA" = "La durée du prêt (prêt A) doit être un entier positif";
+"loanTermMustBeAPositiveIntegerB" = "La durée du prêt (prêt B) doit être un entier positif";
+"interestRateIsNotNegativeA" = "Le taux d'intérêt (prêt A) ne peut pas être négatif";
+"interestRateIsNotNegativeB" = "Le taux d'intérêt (prêt B) ne peut pas être négatif";
+"loanAmountIsNotNegativeA" = "Le montant du prêt (prêt A) ne peut pas être négatif";
+"loanAmountIsNotNegativeB" = "Le montant du prêt (prêt B) ne peut pas être négatif";
+"monthIsNotNegativeA" = "Le mois (prêt A) ne peut pas être négatif";
+"monthIsNotNegativeB" = "Le mois (prêt B) ne peut pas être négatif";
+"yearIsNotNegativeA" = "L'année (prêt A) ne peut pas être négative";
+"yearIsNotNegativeB" = "L'année (prêt B) ne peut pas être négative";
+"theLoanTermTooBigYearsA" = "Le nombre d'années (prêt A) est trop élevé, veuillez réessayer!";
+"theLoanTermTooBigYearsB" = "Le nombre d'années (prêt B) est trop élevé, veuillez réessayer!";
+"theLoanTermTooBigMonthsA" = "Le nombre de mois (prêt A) est trop élevé, veuillez réessayer!";
+"theLoanTermTooBigMonthsB" = "Le nombre de mois (prêt B) est trop élevé, veuillez réessayer!";
+"theLoanInterestRateTooBigA" = "Le taux d'intérêt (prêt A) est trop élevé, veuillez réessayer!";
+"theLoanInterestRateTooBigB" = "Le taux d'intérêt (prêt B) est trop élevé, veuillez réessayer!";
+"daily" = "du quotidien";
+"weekly" = "Hebdomadaire";
+"monthly" = "Mensuelle";
+"quarterly" = "Trimestrielle";
+"semiannually" = "Semestrielle";
+"annually" = "Annuelle";
+"error" = "Erreur";
+"notification" = "Notification";
+"interestRateDefine" = "Taux d'intérêt - Un taux annuel en pourcentage (TAEG) est le taux annuel facturé pour l'emprunt.";
+"unableToSendMail" = "Impossible d'envoyer le courrier";
+"unableToSendMailDefine" = "Votre appareil ne peut pas envoyer de courrier";
+"paymentEveryDay" = "Paiement tous les jours";
+"paymentEveryWeek" = "Paiement chaque semaine";
+"paymentEveryMonth" = "Paiement tous les mois";
+"paymentEveryQuarter" = "Paiement tous les trimestres";
+"paymentEverySixMonth" = "Paiement tous les 6 mois";
+"paymentEveryYear" = "Paiement chaque année";
+"interest" = "Intérêts";
+"principal" = "Principal";
+"balance" = "Solde";
+"amortizationSchedule" = "Calendrier d'amortissement";
+"questionAbout" = "Question sur le calculateur de prêt";
+"edit" = "Éditer";
+"editName" = "Modifier le nom";
+"editPurchaseDate" = "Modifier la date d'achat";
+"upgradeAndRemoveAdsDetails0" = "Cette fonction est verrouillée.";
+"upgradeAndRemoveAds" = "Mettez à niveau pour supprimer les publicités et déverrouiller toutes les fonctionnalités. Seulement ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - Envoyez les résultats par e-mail";
+"upgradeAndRemoveAdsDetails2" = "\n - Exporter vers un fichier CSV";
+"upgradeAndRemoveAdsDetails3" = "\n - Calcul de la durée du prêt";
+"upgradeAndRemoveAdsDetails4" = "\n - Comparez les prêts";
+
+"lifeTimeUpgrade" = "Mise à niveau à vie, seulement ";
+"decimalPlaces0To8" = "Les décimales doivent être un nombre naturel compris entre 0 et 8";
+"decimalPlaces" = "Nombre de décimales";
+"decimalPlacesAlert" = "Entrez un nombre naturel de 0 à 8";
+"restoreWasSuccessful" = "La restauration a réussi !";
+"premium" = "Premium";
+"back" = "Retour";
+"loanCalculator" = "Calculateur de prêt";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "Mettez à niveau pour supprimer les publicités et déverrouiller toutes les fonctions. Vous n'avez besoin de mettre à niveau qu'une seule fois pour déverrouiller toutes les fonctionnalités pour toujours.";
+"calculateLoanPeriods" = "Calculateur de période de remboursement";
+"compareLoans" = "Comparaison des prêts";
+"emailTheResult" = "✪ Envoyez les résultats par courriel";
+"exportToCSV" = "✪ Exporter vers un fichier CSV";
+"setDecimalPlaces" = "✪ Définissez les décimales";
+"removeAds" = "✪ Supprimer la pub";
+"supportOurDevelopment" = "✪ Soutenez notre développement";
+"upgrade" = "Mise à niveau";
+"notNow" = "Pas maintenant";

@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "ITA";
+"currency" = "€";
+"theLoanTermTooBigYears" = "La durata del prestito (anno) è troppo grande, riprova!";
+"theLoanTermTooBigMonths" = "La durata del prestito (mese) è troppo grande, riprova! ";
+
+"pleaseTapCalculate" = "Si prega di toccare Calcola nella scheda Input prima di utilizzare questa funzione";
+"thereWasAnError" = "Si è verificato un errore durante il processo di immissione, ricontrolla.";
+"theLoanInterestRateTooBig" = "La durata del prestito è troppo grande, riprova!";
+"youDoNotNeedALoan" = "Il tuo pagamento è superiore all'importo che devi pagare. Non hai bisogno di un prestito.";
+"anErrorOccurred" = "Si è verificato un errore. Si prega di provare di nuovo.";
+"pleaseDoNotLeaveTheNameBlank" = "Si prega di non lasciare il nome vuoto";
+"createdDate" = "Data di Creazione";
+"year" = "anno";
+"years" = "anni";
+"month" = "mese";
+"months" = "mesi";
+"day" = "giorno";
+"days" = "giorni";
+"delete" = "Elimina";
+"removeAdsAndSupportingOurDevelopment" = "Rimuovere gli annunci e supportare il nostro sviluppo";
+"loanTermMustBeAPositiveInteger" = "La durata del prestito deve essere un numero intero positivo";
+"appName" = "Calcolatore di prestito";
+"input" = "Input";
+"total" = "Totale";
+"result" = "Risultato";
+"loanTerm" = "Durata del prestito";
+"interestRate" = "Quota interessi";
+"loanAmount" = "Importo del prestito";
+"totalInterest" = "Interesse totale";
+"youCantCompleteTheLoan" = "Il prestito non può essere completato con questo pagamento.";
+"interestRateIsNotNegative" = "Il tasso di interesse non può essere negativo";
+"loanAmountIsNotNegative" = "L'importo del prestito non può essere negativo";
+"monthIsNotNegative" = "I mesi non possono essere negativi";
+"yearIsNotNegative" = "Gli anni non possono essere negativi";
+"paymentIsNotNegative" = "Il pagamento non può essere negativo";
+"paymentFrequency" = "Frequenza di pagamento";
+"payment" = "Pagamento";
+"numberOfPayment" = "Numero di pagamenti";
+"totalRepaid" = "Totale rimborsato";
+"paymentIsNotZeroOrBlank" = "Il pagamento deve essere un numero maggiore di 0";
+"loanTermMustBeAPositiveIntegerA" = "La durata del prestito (prestito A) deve essere un numero intero positivo";
+"loanTermMustBeAPositiveIntegerB" = "La durata del prestito (prestito B) deve essere un numero intero positivo";
+"interestRateIsNotNegativeA" = "Il tasso di interesse (prestito A) non può essere negativo";
+"interestRateIsNotNegativeB" = "Il tasso di interesse (prestito B) non può essere negativo";
+"loanAmountIsNotNegativeA" = "L'importo del prestito (prestito A) non può essere negativo";
+"loanAmountIsNotNegativeB" = "L'importo del prestito (prestito B) non può essere negativo";
+"monthIsNotNegativeA" = "Il mese (prestito A) non può essere negativo";
+"monthIsNotNegativeB" = "Il mese (prestito B) non può essere negativo";
+"yearIsNotNegativeA" = "L'anno (prestito A) non può essere negativo";
+"yearIsNotNegativeB" = "L'anno (prestito B) non può essere negativo";
+"theLoanTermTooBigYearsA" = "Il numero di anni (prestito A) è troppo grande, riprova!";
+"theLoanTermTooBigYearsB" = "Il numero di anni (prestito B) è troppo grande, riprova!";
+"theLoanTermTooBigMonthsA" = "Il numero di mesi (prestito A) è troppo grande, riprova!";
+"theLoanTermTooBigMonthsB" = "Il numero di mesi (prestito B) è troppo grande, riprova!";
+"theLoanInterestRateTooBigA" = "Il tasso di interesse (prestito A) è troppo alto, riprova!";
+"theLoanInterestRateTooBigB" = "Il tasso di interesse (prestito B) è troppo alto, riprova!";
+"daily" = "Quotidiano";
+"weekly" = "Settimanalmente";
+"monthly" = "Mensile";
+"quarterly" = "Trimestrale";
+"semiannually" = "Semestrale";
+"annually" = "Annuale";
+"error" = "Errore";
+"notification" = "Notifica";
+"interestRateDefine" = "Tasso di interesse: un tasso annuo effettivo globale (TAEG) è il tasso annuo addebitato per il prestito.";
+"unableToSendMail" = "Impossibile inviare posta";
+"unableToSendMailDefine" = "Il tuo dispositivo non può inviare posta";
+"paymentEveryDay" = "Pagamento ogni giorno";
+"paymentEveryWeek" = "Pagamento ogni settimana";
+"paymentEveryMonth" = "Pagamento ogni mese";
+"paymentEveryQuarter" = "Pagamento trimestrale";
+"paymentEverySixMonth" = "Pagamento ogni 6 mesi";
+"paymentEveryYear" = "Pagamento ogni anno";
+"interest" = "Interesse";
+"principal" = "Principal";
+"balance" = "Balance";
+"amortizationSchedule" = "Piano di ammortamento";
+"questionAbout" = "Domanda sul calcolatore del prestito";
+"edit" = "Modifica";
+"editName" = "Modifica nome";
+"editPurchaseDate" = "Modifica la data di acquisto";
+"upgradeAndRemoveAdsDetails0" = "Questa funzione è bloccata.";
+"upgradeAndRemoveAds" = "Esegui l'upgrade per rimuovere gli annunci e sbloccare tutte le funzionalità. Solo ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - Invia i risultati tramite email";
+"upgradeAndRemoveAdsDetails2" = "\n - Esporta in file CSV";
+"upgradeAndRemoveAdsDetails3" = "\n - Calcolo del periodo di prestito";
+"upgradeAndRemoveAdsDetails4" = "\n - Confronta prestiti";
+
+"lifeTimeUpgrade" = "Aggiornamento a vita, solo ";
+"decimalPlaces0To8" = "I decimali devono essere un numero naturale compreso tra 0 e 8";
+"decimalPlaces" = "Posizioni decimali";
+"decimalPlacesAlert" = "Inserisci un numero naturale da 0 a 8";
+"restoreWasSuccessful" = "Il ripristino è riuscito!";
+"premium" = "Premium";
+"back" = "Indietro";
+"loanCalculator" = "Calcolatore di prestito";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "Esegui l'upgrade per rimuovere gli annunci e sbloccare tutte le funzioni. Devi solo eseguire l'aggiornamento una volta per sbloccare tutte le funzionalità per sempre.";
+"calculateLoanPeriods" = "Calcolatore del periodo di rimborso";
+"compareLoans" = "Confronto dei prestiti";
+"emailTheResult" = "✪ E-mail risultati";
+"exportToCSV" = "✪ Esporta in file CSV";
+"setDecimalPlaces" = "✪ Impostare posizioni decimali";
+"removeAds" = "✪ Rimuovere gli annunci";
+"supportOurDevelopment" = "✪ Sostieni il nostro sviluppo";
+"upgrade" = "Aggiornare";
+"notNow" = "Non adesso";

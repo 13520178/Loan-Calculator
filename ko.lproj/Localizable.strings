@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "KOREA";
+"currency" = "￦";
+"theLoanTermTooBigYears" = "대출 기간 (년)이 너무 큽니다. 다시 시도하십시오!";
+"theLoanTermTooBigMonths" = "대출 기간 (월)이 너무 큽니다. 다시 시도하십시오!";
+
+"pleaseTapCalculate" = "이 기능을 사용하기 전에 입력 탭에서 계산을 탭하십시오";
+"thereWasAnError" = "입력 과정에서 오류가 발생했습니다. 다시 확인하세요.";
+"theLoanInterestRateTooBig" = "대출 기간이 너무 큽니다. 다시 시도하십시오!";
+"youDoNotNeedALoan" = "귀하의 지불액이 지불해야하는 금액보다 많습니다. 대출이 필요하지 않습니다.";
+"anErrorOccurred" = "에러가 발생했습니다 .. 다시 시도 해주세요.";
+"pleaseDoNotLeaveTheNameBlank" = "이름을 비워 두지 마십시오";
+"createdDate" = "만든 날짜";
+"year" = "년";
+"years" = "년";
+"month" = "달";
+"months" = "개월";
+"day" = "일";
+"days" = "일";
+"delete" = "삭제";
+"removeAdsAndSupportingOurDevelopment" = "광고 제거 및 개발 지원";
+"loanTermMustBeAPositiveInteger" = "대출 기간은 양의 정수 여야합니다";
+"appName" = "대출 계산기";
+"input" = "입력";
+"total" = "합계";
+"result" = "결과";
+"loanTerm" = "대출 기간";
+"interestRate" = "이자율";
+"loanAmount" = "대출 금액";
+"totalInterest" = "총이자";
+"youCantCompleteTheLoan" = "이 지불로는 대출을 완료 할 수 없습니다.";
+"interestRateIsNotNegative" = "이자율은 음수 일 수 없습니다";
+"loanAmountIsNotNegative" = "대출 금액은 음수 일 수 없습니다";
+"monthIsNotNegative" = "월은 음수가 될 수 없습니다";
+"yearIsNotNegative" = "연도는 음수가 될 수 없습니다";
+"paymentIsNotNegative" = "지불은 음수 일 수 없습니다";
+"paymentFrequency" = "지불 빈도";
+"payment" = "지불";
+"numberOfPayment" = "지불 횟수";
+"totalRepaid" = "상환 된 총액";
+"paymentIsNotZeroOrBlank" = "결제는 0보다 큰 숫자 여야합니다";
+"loanTermMustBeAPositiveIntegerA" = "대출 기간 (대출 A)은 양의 정수 여야합니다";
+"loanTermMustBeAPositiveIntegerB" = "대출 기간 (대출 B)은 양의 정수 여야합니다";
+"interestRateIsNotNegativeA" = "이자율 (대출 A)은 음수 일 수 없습니다";
+"interestRateIsNotNegativeB" = "이자율 (대출 B)은 음수 일 수 없습니다";
+"loanAmountIsNotNegativeA" = "대출 금액 (대출 A)은 음수 일 수 없습니다";
+"loanAmountIsNotNegativeB" = "대출 금액 (대출 B)은 음수 일 수 없습니다";
+"monthIsNotNegativeA" = "월 (대출 A)은 음수 일 수 없습니다";
+"monthIsNotNegativeB" = "월 (대출 B)은 음수 일 수 없습니다";
+"yearIsNotNegativeA" = "연도 (대출 A)는 음수가 될 수 없습니다";
+"yearIsNotNegativeB" = "연도 (대출 B)는 음수 일 수 없습니다";
+"theLoanTermTooBigYearsA" = "연수 (대출 A)가 너무 큽니다. 다시 시도하십시오!";
+"theLoanTermTooBigYearsB" = "연수 (대출 B)가 너무 큽니다. 다시 시도하십시오!";
+"theLoanTermTooBigMonthsA" = "개월 수 (대출 A)가 너무 큽니다. 다시 시도하십시오!";
+"theLoanTermTooBigMonthsB" = "개월 수 (대출 B)가 너무 큽니다. 다시 시도하십시오!";
+"theLoanInterestRateTooBigA" = "이자율 (대출 A)이 너무 큽니다. 다시 시도하십시오!";
+"theLoanInterestRateTooBigB" = "금리 (대출 B)가 너무 큽니다. 다시 시도하십시오!";
+"daily" = "매일";
+"weekly" = "주간";
+"monthly" = "매월";
+"quarterly" = "계간지";
+"semiannually" = "반기";
+"annually" = "매년";
+"error" = "오류";
+"notification" = "공고";
+"interestRateDefine" = "이자율-연간 이율 (APR)은 대출에 부과되는 연간 이자율입니다.";
+"unableToSendMail" = "메일을 보낼 수 없습니다";
+"unableToSendMailDefine" = "장치에서 메일을 보낼 수 없습니다";
+"paymentEveryDay" = "매일 지불";
+"paymentEveryWeek" = "매주 지불";
+"paymentEveryMonth" = "매월 지불";
+"paymentEveryQuarter" = "매 분기 지불";
+"paymentEverySixMonth" = "6 개월마다 지불";
+"paymentEveryYear" = "매년 지불";
+"interest" = "이자";
+"principal" = "납입원금";
+"balance" = "잔금";
+"amortizationSchedule" = "상각 일정";
+"questionAbout" = "대출 계산기에 관한 질문";
+"edit" = "편집하다";
+"editName" = "이름 수정";
+"editPurchaseDate" = "구매 일 수정";
+"upgradeAndRemoveAdsDetails0" = "이 기능은 잠겨 있습니다.";
+"upgradeAndRemoveAds" = "광고를 제거하고 모든 기능을 잠금 해제하려면 업그레이드하세요. 단 ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - 결과를 이메일로 보내기";
+"upgradeAndRemoveAdsDetails2" = "\n - CSV 파일로 내보내기";
+"upgradeAndRemoveAdsDetails3" = "\n - 대출 기간 계산";
+"upgradeAndRemoveAdsDetails4" = "\n - 대출 비교";
+
+"lifeTimeUpgrade" = "평생 업그레이드, 단 ";
+"decimalPlaces0To8" = "소수점 이하 자릿수는 0에서 8 사이의 자연수여야 합니다.";
+"decimalPlaces" = "소수점 이하 자릿수";
+"decimalPlacesAlert" = "0에서 8 사이의 자연수를 입력하세요.";
+"restoreWasSuccessful" = "복원에 성공했습니다!";
+"premium" = "프리미엄";
+"back" = "뒤로";
+"loanCalculator" = "대출 계산기";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "광고를 제거하고 모든 기능을 잠금 해제하려면 업그레이드하세요. 모든 기능을 영원히 잠금 해제하려면 한 번만 업그레이드하면 됩니다.";
+"calculateLoanPeriods" = "상환 기간 계산기";
+"compareLoans" = "대출 비교";
+"emailTheResult" = "✪ 이메일로 결과를 보냅니다";
+"exportToCSV" = "✪ CSV 파일로 내보내기";
+"setDecimalPlaces" = "✪ 소수점 이하 자릿수 설정";
+"removeAds" = "✪ 광고를 제거하다";
+"supportOurDevelopment" = "✪ 우리의 발전을 지원하십시오";
+"upgrade" = "업그레이드";
+"notNow" = "지금 아님";

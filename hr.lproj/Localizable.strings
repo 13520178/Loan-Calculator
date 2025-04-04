@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "VN";
+"currency" = "kn";
+"theLoanTermTooBigYears" = "Rok zajma (godina) je prevelik, pokušajte ponovo!";
+"theLoanTermTooBigMonths" = "Rok zajma (mjesec) je prevelik, pokušajte ponovo!";
+
+"pleaseTapCalculate" = "Prije upotrebe ove značajke dodirnite Izračunaj na kartici Unos";
+"thereWasAnError" = "Došlo je do pogreške u procesu unosa, provjerite ponovo.";
+"theLoanInterestRateTooBig" = "Rok zajma je prevelik, pokušajte ponovo!";
+"youDoNotNeedALoan" = "Vaša je uplata veća od iznosa koji morate platiti. Zajam vam nije potreban.";
+"anErrorOccurred" = "Došlo je do pogreške, pokušajte ponovo.";
+"pleaseDoNotLeaveTheNameBlank" = "Molimo vas da ne ostavljate ime prazno";
+"createdDate" = "Datum kreiranja";
+"year" = "godina";
+"years" = "godina";
+"month" = "mjesec";
+"months" = "mjeseci";
+"day" = "dan";
+"days" = "dana";
+"delete" = "Izbrisati";
+"removeAdsAndSupportingOurDevelopment" = "Uklonite oglase i podržavajte naš razvoj";
+"loanTermMustBeAPositiveInteger" = "Pojam zajma mora biti pozitivan cijeli broj";
+"appName" = "Kreditni kalkulator";
+"input" = "Ulazni";
+"total" = "Ukupno";
+"result" = "Proizlaziti";
+"loanTerm" = "Rok Kredita";
+"interestRate" = "Kamatna stopa";
+"loanAmount" = "Iznos kredita";
+"totalInterest" = "Ukupni interes";
+"youCantCompleteTheLoan" = "Kredit se ne može izvršiti ovom uplatom.";
+"interestRateIsNotNegative" = "Kamatna stopa ne može biti negativna";
+"loanAmountIsNotNegative" = "Iznos zajma ne može biti negativan";
+"monthIsNotNegative" = "Mjeseci ne mogu biti negativni";
+"yearIsNotNegative" = "Godine ne mogu biti negativne";
+"paymentIsNotNegative" = "Uplata ne može biti negativna";
+"paymentFrequency" = "Učestalost plaćanja";
+"payment" = "Plaćanje";
+"numberOfPayment" = "Number of Payment";
+"totalRepaid" = "Ukupno otplaćeno";
+"paymentIsNotZeroOrBlank" = "Uplata mora biti broj veći od 0";
+"loanTermMustBeAPositiveIntegerA" = "Pojam zajma (zajam A) mora biti pozitivan cijeli broj";
+"loanTermMustBeAPositiveIntegerB" = "Izraz zajma (zajam B) mora biti pozitivan cijeli broj";
+"interestRateIsNotNegativeA" = "Kamatna stopa (zajam A) ne može biti negativna";
+"interestRateIsNotNegativeB" = "Kamatna stopa (zajam B) ne može biti negativna";
+"loanAmountIsNotNegativeA" = "Iznos zajma (zajam A) ne može biti negativan";
+"loanAmountIsNotNegativeB" = "Iznos zajma (zajam B) ne može biti negativan";
+"monthIsNotNegativeA" = "Mjesec (zajam A) ne može biti negativan";
+"monthIsNotNegativeB" = "Mjesec (zajam B) ne može biti negativan";
+"yearIsNotNegativeA" = "Godina (zajam A) ne može biti negativna";
+"yearIsNotNegativeB" = "Godina (zajam B) ne može biti negativna";
+"theLoanTermTooBigYearsA" = "Broj godina (zajam A) je prevelik, pokušajte ponovo!";
+"theLoanTermTooBigYearsB" = "Broj godina (Zajam B) je prevelik, pokušajte ponovo!";
+"theLoanTermTooBigMonthsA" = "Broj mjeseci (Zajam A) je prevelik, pokušajte ponovo!";
+"theLoanTermTooBigMonthsB" = "Broj mjeseci (Zajam B) je prevelik, pokušajte ponovo!";
+"theLoanInterestRateTooBigA" = "Kamatna stopa (zajam A) je prevelika, pokušajte ponovo!";
+"theLoanInterestRateTooBigB" = "Kamatna stopa (zajam B) je prevelika, pokušajte ponovo!";
+"daily" = "Dnevno";
+"weekly" = "Tjedni";
+"monthly" = "Mjesečni";
+"quarterly" = "Tromjesečno";
+"semiannually" = "Polu godišnje";
+"annually" = "Godišnje";
+"error" = "Pogreška";
+"notification" = "Obavijest";
+"interestRateDefine" = "Kamatna stopa - godišnja postotna stopa (APR) je godišnja stopa koja se naplaćuje za posudbu.";
+"unableToSendMail" = "Nije moguće poslati poštu";
+"unableToSendMailDefine" = "Uređaj ne može slati poštu";
+"paymentEveryDay" = "Plaćanje svaki dan";
+"paymentEveryWeek" = "Plaćanje svakog tjedna";
+"paymentEveryMonth" = "Plaćanje svakog mjeseca";
+"paymentEveryQuarter" = "Plaćanje svake četvrtine";
+"paymentEverySixMonth" = "Plaćanje svakih 6 mjeseci";
+"paymentEveryYear" = "Plaćanje svake godine";
+"interest" = "Kamata";
+"principal" = "Glavnica";
+"balance" = "Balance";
+"amortizationSchedule" = "Raspored amortizacije";
+"questionAbout" = "Pitanje o kreditnom kalkulatoru";
+"edit" = "Uredi";
+"editName" = "Uredi ime";
+"editPurchaseDate" = "Uredite datum kupnje";
+"upgradeAndRemoveAdsDetails0" = "Ova je značajka zaključana.";
+"upgradeAndRemoveAds" = "Nadogradite da biste uklonili oglase i otključali sve značajke. Samo ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - Pošaljite rezultate e-poštom";
+"upgradeAndRemoveAdsDetails2" = "\n - Izvoz u CSV datoteku";
+"upgradeAndRemoveAdsDetails3" = "\n - Izračun razdoblja zajma";
+"upgradeAndRemoveAdsDetails4" = "\n - Usporedite zajmove";
+
+"lifeTimeUpgrade" = "Doživotna nadogradnja, samo ";
+"decimalPlaces0To8" = "Decimalna mjesta moraju biti prirodni broj između 0 i 8";
+"decimalPlaces" = "Decimalna mjesta";
+"decimalPlacesAlert" = "Unesite prirodni broj od 0 do 8";
+"restoreWasSuccessful" = "Obnova je uspjela!";
+"premium" = "Premium";
+"back" = "Natrag";
+"loanCalculator" = "Kalkulator kredita";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "Nadogradite da biste uklonili oglase i otključali sve funkcije. Morate nadograditi samo jednom da biste zauvijek otključali sve značajke.";
+"calculateLoanPeriods" = "Kalkulator razdoblja otplate";
+"compareLoans" = "Usporedba zajmova";
+"emailTheResult" = "✪ Pošaljite rezultate putem e -pošte";
+"exportToCSV" = "✪ Izvezi u CSV datoteku";
+"setDecimalPlaces" = "✪ Postavite decimalna mjesta";
+"removeAds" = "✪ Makni reklame";
+"supportOurDevelopment" = "✪ Podržite naš razvoj";
+"upgrade" = "Nadogradi";
+"notNow" = "Ne sada";

@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "RUS";
+"currency" = "₽";
+"theLoanTermTooBigYears" = "Срок кредита (Год) слишком велик, попробуйте еще раз!";
+"theLoanTermTooBigMonths" = "Срок кредита (месяц) слишком велик, попробуйте еще раз!";
+
+"pleaseTapCalculate" = "Перед использованием этой функции нажмите «Рассчитать» на вкладке «Ввод».";
+"thereWasAnError" = "В процессе ввода произошла ошибка, проверьте еще раз.";
+"theLoanInterestRateTooBig" = "Срок кредита слишком велик, попробуйте еще раз!";
+"youDoNotNeedALoan" = "Ваш платеж превышает сумму, которую вы должны заплатить. Займ не нужен.";
+"anErrorOccurred" = "Произошла ошибка. Пожалуйста, попробуйте еще раз.";
+"pleaseDoNotLeaveTheNameBlank" = "Пожалуйста, не оставляйте имя пустым";
+"createdDate" = "Дата создания";
+"year" = "год";
+"years" = "лет";
+"month" = "месяц";
+"months" = "месяцы";
+"day" = "день";
+"days" = "дней";
+"delete" = "удалять";
+"removeAdsAndSupportingOurDevelopment" = "Удалите рекламу и поддержите наше развитие";
+"loanTermMustBeAPositiveInteger" = "Срок кредита должен быть положительным целым числом";
+"appName" = "Кредитный калькулятор";
+"input" = "Ввод";
+"total" = "Всего";
+"result" = "Результат";
+"loanTerm" = "Срок кредита";
+"interestRate" = "Процентная ставка";
+"loanAmount" = "Сумма займа";
+"totalInterest" = "Итого проценты";
+"youCantCompleteTheLoan" = "Этим платежом нельзя оформить ссуду.";
+"interestRateIsNotNegative" = "Процентная ставка не может быть отрицательной";
+"loanAmountIsNotNegative" = "Сумма кредита не может быть отрицательной";
+"monthIsNotNegative" = "Месяцы не могут быть отрицательными";
+"yearIsNotNegative" = "Годы не могут быть отрицательными";
+"paymentIsNotNegative" = "Оплата не может быть отрицательной";
+"paymentFrequency" = "Периодичность платежей";
+"payment" = "Оплата";
+"numberOfPayment" = "Количество платежей";
+"totalRepaid" = "Всего погашено";
+"paymentIsNotZeroOrBlank" = "Платеж должен быть числом больше 0";
+"loanTermMustBeAPositiveIntegerA" = "Срок ссуды (ссуда A) должен быть положительным целым числом";
+"loanTermMustBeAPositiveIntegerB" = "Срок ссуды (ссуда B) должен быть положительным целым числом";
+"interestRateIsNotNegativeA" = "Процентная ставка (заем А) не может быть отрицательной";
+"interestRateIsNotNegativeB" = "Процентная ставка (заем B) не может быть отрицательной";
+"loanAmountIsNotNegativeA" = "Сумма займа (Заем А) не может быть отрицательной";
+"loanAmountIsNotNegativeB" = "Сумма займа (Заем Б) не может быть отрицательной.";
+"monthIsNotNegativeA" = "Месяц (ссуда А) не может быть отрицательным";
+"monthIsNotNegativeB" = "Месяц (ссуда B) не может быть отрицательным";
+"yearIsNotNegativeA" = "Год (ссуда A) не может быть отрицательным";
+"yearIsNotNegativeB" = "Год (ссуда B) не может быть отрицательным";
+"theLoanTermTooBigYearsA" = "Количество лет (заем A) слишком велико, попробуйте еще раз!";
+"theLoanTermTooBigYearsB" = "Количество лет (заем B) слишком велико, попробуйте еще раз!";
+"theLoanTermTooBigMonthsA" = "Количество месяцев (заем A) слишком велико, попробуйте еще раз!";
+"theLoanTermTooBigMonthsB" = "Количество месяцев (заем B) слишком велико, попробуйте еще раз!";
+"theLoanInterestRateTooBigA" = "Процентная ставка (заем А) слишком велика, попробуйте еще раз!";
+"theLoanInterestRateTooBigB" = "Процентная ставка (заем B) слишком велика, попробуйте еще раз!";
+"daily" = "Ежедневные";
+"weekly" = "Еженедельно";
+"monthly" = "Ежемесячно";
+"quarterly" = "Ежеквартальный";
+"semiannually" = "Раз в полгода";
+"annually" = "Ежегодно";
+"error" = "ошибка";
+"notification" = "Уведомление";
+"interestRateDefine" = "Процентная ставка - Годовая процентная ставка (APR) - это годовая ставка, взимаемая за заимствование.";
+"unableToSendMail" = "Невозможно отправить почту";
+"unableToSendMailDefine" = "Ваше устройство не может отправлять почту";
+"paymentEveryDay" = "Оплата каждый день";
+"paymentEveryWeek" = "Оплата каждую неделю";
+"paymentEveryMonth" = "Оплата каждый месяц";
+"paymentEveryQuarter" = "Выплата ежеквартально";
+"paymentEverySixMonth" = "Оплата каждые 6 месяцев";
+"paymentEveryYear" = "Оплата каждый год";
+"interest" = "Начисленные проценты";
+"principal" = "Платеж в основной долг";
+"balance" = "баланс";
+"amortizationSchedule" = "план погашения";
+"questionAbout" = "Вопрос о кредитном калькуляторе";
+"edit" = "редактировать";
+"editName" = "Редактировать имя";
+"editPurchaseDate" = "Изменить дату покупки";
+"upgradeAndRemoveAdsDetails0" = "Эта функция заблокирована.";
+"upgradeAndRemoveAds" = "Обновите, чтобы удалить рекламу и разблокировать все функции. Только ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - Отправьте результаты по электронной почте";
+"upgradeAndRemoveAdsDetails2" = "\n - Экспорт в файл CSV";
+"upgradeAndRemoveAdsDetails3" = "\n - Расчет срока кредита";
+"upgradeAndRemoveAdsDetails4" = "\n - Сравнить ссуды";
+
+"lifeTimeUpgrade" = "Пожизненное обновление, всего ";
+"decimalPlaces0To8" = "Десятичные разряды должны быть натуральными числами от 0 до 8.";
+"decimalPlaces" = "Десятичные разряды";
+"decimalPlacesAlert" = "Введите натуральное число от 0 до 8";
+"restoreWasSuccessful" = "Восстановление прошло успешно!";
+"premium" = "Премиум";
+"back" = "Назад";
+"loanCalculator" = "Кредитный калькулятор";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "Обновите, чтобы удалить рекламу и разблокировать все функции. Вам нужно выполнить обновление только один раз, чтобы навсегда разблокировать все функции.";
+"calculateLoanPeriods" = "Калькулятор срока погашения";
+"compareLoans" = "Сравнение кредитов";
+"emailTheResult" = "✪ Отправить результаты по электронной почте";
+"exportToCSV" = "✪ Экспорт в файл CSV";
+"setDecimalPlaces" = "✪ Установить десятичные разряды";
+"removeAds" = "✪ Убрать рекламу";
+"supportOurDevelopment" = "✪ Поддержите наше развитие";
+"upgrade" = "Обновление";
+"notNow" = "Не сейчас";

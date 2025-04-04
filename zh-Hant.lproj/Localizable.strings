@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "HKTW";
+"currency" = "$";
+"theLoanTermTooBigYears" = "貸款期限（年）太大，請重試！";
+"theLoanTermTooBigMonths" = "貸款期限（月）太大，請重試！";
+
+"pleaseTapCalculate" = "使用此功能之前，請點擊“輸入”選項卡下的“計算”";
+"thereWasAnError" = "輸入過程中出現錯誤，請再次檢查。";
+"theLoanInterestRateTooBig" = "貸款期限太大，請重試！";
+"youDoNotNeedALoan" = "您的付款大於必須支付的金額。 您不需要貸款。";
+"anErrorOccurred" = "發生錯誤，請重試。";
+"pleaseDoNotLeaveTheNameBlank" = "請不要將該名稱留空";
+"createdDate" = "創建日期";
+"year" = "年";
+"years" = "年";
+"month" = "月";
+"months" = "個月";
+"day" = "天";
+"days" = "天";
+"delete" = "刪除";
+"removeAdsAndSupportingOurDevelopment" = "移除廣告並支持我們的發展";
+"loanTermMustBeAPositiveInteger" = "貸款期限必須為正整數";
+"appName" = "貸款計算器";
+"input" = "輸入";
+"total" = "全部的";
+"result" = "結果";
+"loanTerm" = "貸款期限";
+"interestRate" = "利率方式";
+"loanAmount" = "貸款金額";
+"totalInterest" = "總利息";
+"youCantCompleteTheLoan" = "不能用這筆付款完成貸款。";
+"interestRateIsNotNegative" = "利率不能為負";
+"loanAmountIsNotNegative" = "貸款金額不能為負";
+"monthIsNotNegative" = "月份不能為負";
+"yearIsNotNegative" = "年份不能為負";
+"paymentIsNotNegative" = "付款不能為負數";
+"paymentFrequency" = "付款頻率";
+"payment" = "支付";
+"numberOfPayment" = "支付數";
+"totalRepaid" = "總還款額";
+"paymentIsNotZeroOrBlank" = "付款必須是大於0的數字";
+"loanTermMustBeAPositiveIntegerA" = "貸款期限（貸款A）必須為正整數";
+"loanTermMustBeAPositiveIntegerB" = "貸款期限（貸款B）必須為正整數";
+"interestRateIsNotNegativeA" = "利率（貸款A）不能為負";
+"interestRateIsNotNegativeB" = "利率（貸款B）不能為負";
+"loanAmountIsNotNegativeA" = "貸款金額（貸款A）不能為負";
+"loanAmountIsNotNegativeB" = "貸款金額（貸款B）不能為負";
+"monthIsNotNegativeA" = "月（貸款A）不能為負";
+"monthIsNotNegativeB" = "月（貸款B）不能為負";
+"yearIsNotNegativeA" = "年（貸款A）不能為負";
+"yearIsNotNegativeB" = "年（貸款B）不能為負";
+"theLoanTermTooBigYearsA" = "年數（貸款A）太大，請重試！";
+"theLoanTermTooBigYearsB" = "年數（貸款B）太大，請重試！";
+"theLoanTermTooBigMonthsA" = "月數（貸款A）太大，請重試！";
+"theLoanTermTooBigMonthsB" = "月數（貸款B）太大，請重試！";
+"theLoanInterestRateTooBigA" = "利率（貸款A）太大，請重試！";
+"theLoanInterestRateTooBigB" = "利率（貸款B）太大，請重試！";
+"daily" = "日常";
+"weekly" = "每週";
+"monthly" = "每月一次";
+"quarterly" = "季刊";
+"semiannually" = "半年度";
+"annually" = "每年";
+"error" = "錯誤";
+"notification" = "通知";
+"interestRateDefine" = "利率-年利率（APR）是收取的年利率。";
+"unableToSendMail" = "無法發送郵件";
+"unableToSendMailDefine" = "您的設備無法發送郵件";
+"paymentEveryDay" = "每天付款";
+"paymentEveryWeek" = "每週付款";
+"paymentEveryMonth" = "每月付款";
+"paymentEveryQuarter" = "每季度付款";
+"paymentEverySixMonth" = "每6個月付款";
+"paymentEveryYear" = "每年付款";
+"interest" = "利息";
+"principal" = "本金";
+"balance" = "貸款餘額";
+"amortizationSchedule" = "摊销时间表";
+"questionAbout" = "关于贷款计算器的问题";
+"edit" = "编辑";
+"editName" = "编辑名称";
+"editPurchaseDate" = "修改购买日期";
+"upgradeAndRemoveAdsDetails0" = "此功能已锁定。";
+"upgradeAndRemoveAds" = "升级以删除广告并解锁所有功能。 仅有的 ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - 用电子邮件发送结果";
+"upgradeAndRemoveAdsDetails2" = "\n - 导出到CSV文件";
+"upgradeAndRemoveAdsDetails3" = "\n - 贷款期限计算";
+"upgradeAndRemoveAdsDetails4" = "\n - 比較貸款";
+
+"lifeTimeUpgrade" = "终身升级，只需 ";
+"decimalPlaces0To8" = "小數位必須是 0 到 8 之間的自然數";
+"decimalPlaces" = "小數位";
+"decimalPlacesAlert" = "輸入一個從 0 到 8 的自然數";
+"restoreWasSuccessful" = "還原成功!";
+"premium" = "Premium";
+"back" = "返回";
+"loanCalculator" = "貸款計算器";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "升級以去除廣告並解鎖所有功能。 您只需升級一次即可永久解鎖所有功能。";
+"calculateLoanPeriods" = "还款期计算器";
+"compareLoans" = "贷款比较";
+"emailTheResult" = "✪ 将结果通过电子邮件发送";
+"exportToCSV" = "✪ 導出到 CSV 文件";
+"setDecimalPlaces" = "✪ 設置小數位";
+"removeAds" = "✪ 移除廣告";
+"supportOurDevelopment" = "✪ 支持我們的發展";
+"upgrade" = "升級";
+"notNow" = "現在不要";

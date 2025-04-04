@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "PO";
+"currency" = "Kč";
+"theLoanTermTooBigYears" = "Doba půjčky (rok) je příliš velká, zkuste to prosím znovu!";
+"theLoanTermTooBigMonths" = "Výpůjční lhůta (měsíc) je příliš velká, zkuste to prosím znovu!";
+
+"pleaseTapCalculate" = "Než použijete tuto funkci, klepněte na možnost Vypočítat na kartě Vstup";
+"thereWasAnError" = "Při zadávání došlo k chybě. Zkontrolujte to prosím znovu.";
+"theLoanInterestRateTooBig" = "Výpůjční lhůta je příliš velká, zkuste to prosím znovu!";
+"youDoNotNeedALoan" = "Vaše platba je vyšší než částka, kterou musíte zaplatit. Nepotřebujete půjčku.";
+"anErrorOccurred" = "Vyskytla se chyba. Zkuste to prosím znovu.";
+"pleaseDoNotLeaveTheNameBlank" = "Nenechávejte prosím jméno prázdné";
+"createdDate" = "Datum vytvoření";
+"year" = "rok";
+"years" = "let";
+"month" = "Měsíc";
+"months" = "měsíců";
+"day" = "den";
+"days" = "dní";
+"delete" = "Vymazat";
+"removeAdsAndSupportingOurDevelopment" = "Odeberte reklamy a podpořte náš vývoj";
+"loanTermMustBeAPositiveInteger" = "Termín zapůjčení musí být kladné celé číslo";
+"appName" = "Úvěrová kalkulačka";
+"input" = "Vstup";
+"total" = "Celkový";
+"result" = "Výsledek";
+"loanTerm" = "Termín zapůjčení";
+"interestRate" = "Úroková sazba";
+"loanAmount" = "Výše půjčky";
+"totalInterest" = "Celkový úrok";
+"youCantCompleteTheLoan" = "Půjčku nelze touto splátkou dokončit.";
+"interestRateIsNotNegative" = "Úroková sazba nemůže být záporná";
+"loanAmountIsNotNegative" = "Výše půjčky nesmí být záporná";
+"monthIsNotNegative" = "Měsíce nemohou být záporné";
+"yearIsNotNegative" = "Roky nemohou být záporné";
+"paymentIsNotNegative" = "Platba nemůže být záporná";
+"paymentFrequency" = "Platba Frequency";
+"payment" = "Splátka";
+"numberOfPayment" = "Počtu platebních";
+"totalRepaid" = "Celková Splacena";
+"paymentIsNotZeroOrBlank" = "Platba musí být číslo větší než 0";
+"loanTermMustBeAPositiveIntegerA" = "Termín půjčky (půjčka A) musí být kladné celé číslo";
+"loanTermMustBeAPositiveIntegerB" = "Termín půjčky (půjčka B) musí být kladné celé číslo";
+"interestRateIsNotNegativeA" = "Úroková sazba (půjčka A) nemůže být záporná";
+"interestRateIsNotNegativeB" = "Úroková sazba (půjčka B) nemůže být záporná";
+"loanAmountIsNotNegativeA" = "Výše půjčky (půjčka A) nemůže být záporná";
+"loanAmountIsNotNegativeB" = "Výše půjčky (půjčka B) nemůže být záporná";
+"monthIsNotNegativeA" = "Měsíc (půjčka A) nemůže být záporný";
+"monthIsNotNegativeB" = "Měsíc (půjčka B) nemůže být záporný";
+"yearIsNotNegativeA" = "Rok (výpůjčka A) nemůže být záporný";
+"yearIsNotNegativeB" = "Rok (půjčka B) nemůže být záporný";
+"theLoanTermTooBigYearsA" = "Počet let (půjčka A) je příliš velký, zkuste to prosím znovu!";
+"theLoanTermTooBigYearsB" = "Počet let (půjčka B) je příliš velký, zkuste to prosím znovu!";
+"theLoanTermTooBigMonthsA" = "Počet měsíců (půjčka A) je příliš velký, zkuste to prosím znovu!";
+"theLoanTermTooBigMonthsB" = "Počet měsíců (půjčka B) je příliš velký, zkuste to prosím znovu!";
+"theLoanInterestRateTooBigA" = "Úroková sazba (půjčka A) je příliš velká, zkuste to prosím znovu!";
+"theLoanInterestRateTooBigB" = "Úroková sazba (půjčka B) je příliš velká, zkuste to prosím znovu!";
+"daily" = "Denní";
+"weekly" = "Týdně";
+"monthly" = "Měsíční";
+"quarterly" = "Čtvrtletní";
+"semiannually" = "Pololetně";
+"annually" = "Každoročně";
+"error" = "Chyba";
+"notification" = "Oznámení";
+"interestRateDefine" = "Úroková sazba - roční procentní sazba (APR) je roční sazba účtovaná za půjčku.";
+"unableToSendMail" = "Nelze odeslat poštu";
+"unableToSendMailDefine" = "Vaše zařízení nemůže odesílat poštu";
+"paymentEveryDay" = "Platba každý den";
+"paymentEveryWeek" = "Platba každý týden";
+"paymentEveryMonth" = "Platba každý měsíc";
+"paymentEveryQuarter" = "Platba každé čtvrtletí";
+"paymentEverySixMonth" = "Platba každých 6 měsíců";
+"paymentEveryYear" = "Platba každý rok";
+"interest" = "Zájem";
+"principal" = "Jistina";
+"balance" = "Balance";
+"amortizationSchedule" = "Rozpis amortizace";
+"questionAbout" = "Otázka ohledně kalkulačky půjčky";
+"edit" = "Upravit";
+"editName" = "Upravit jméno";
+"editPurchaseDate" = "Upravit datum nákupu";
+"upgradeAndRemoveAdsDetails0" = "Tato funkce je uzamčena.";
+"upgradeAndRemoveAds" = "Upgradujte, abyste odstranili reklamy a odemkli všechny funkce. Pouze ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - Výsledky pošlete e-mailem";
+"upgradeAndRemoveAdsDetails2" = "\n - Export do souboru CSV";
+"upgradeAndRemoveAdsDetails3" = "\n - Výpočet výpůjčního období";
+"upgradeAndRemoveAdsDetails4" = "\n - Porovnat půjčky";
+
+"lifeTimeUpgrade" = "Doživotní upgrade, pouze ";
+"decimalPlaces0To8" = "Desetinná místa musí být přirozené číslo mezi 0 a 8";
+"decimalPlaces" = "Desetinná místa";
+"decimalPlacesAlert" = "Zadejte přirozené číslo od 0 do 8";
+"restoreWasSuccessful" = "Obnovení proběhlo úspěšně!";
+"premium" = "Prémiová";
+"back" = "Zpět";
+"loanCalculator" = "Kalkulačka půjček";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "Upgradujte, abyste odstranili reklamy a odemkli všechny funkce. K odemčení všech funkcí navždy stačí provést pouze jednou.";
+"calculateLoanPeriods" = "Kalkulačka doby splácení";
+"compareLoans" = "Loans Porovnání";
+"emailTheResult" = "✪ Výsledky pošlete e -mailem";
+"exportToCSV" = "✪ Export do souboru CSV";
+"setDecimalPlaces" = "✪ Nastavte desetinná místa";
+"removeAds" = "✪ Odebrat reklamy";
+"supportOurDevelopment" = "✪ Podpořte náš rozvoj";
+"upgrade" = "Upgradovat";
+"notNow" = "Teď ne";

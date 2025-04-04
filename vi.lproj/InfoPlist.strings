@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 9/8/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Tính Lãi Vay";
+"CFBundleName" = "Tính Lãi Vay";

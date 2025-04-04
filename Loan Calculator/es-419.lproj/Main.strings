@@ -1,0 +1,531 @@
+
+/* Class = "UILabel"; text = "%"; ObjectID = "02o-5N-R7g"; */
+"02o-5N-R7g.text" = "%/año";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "0CZ-Pc-8Jp"; */
+"0CZ-Pc-8Jp.text" = "%";
+
+/* Class = "UILabel"; text = "Number of Payment"; ObjectID = "0G7-d0-l9g"; */
+"0G7-d0-l9g.text" = "Número de pago";
+
+/* Class = "UILabel"; text = "Total Repaid"; ObjectID = "0bu-BW-jlV"; */
+"0bu-BW-jlV.text" = "Total reembolsado";
+
+/* Class = "UILabel"; text = "Loans Comparison"; ObjectID = "0mD-mL-TGu"; */
+"0mD-mL-TGu.text" = "Comparación de préstamos";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "1IO-RV-2BL"; */
+"1IO-RV-2BL.text" = "Pago";
+
+/* Class = "UITabBarItem"; title = "Input"; ObjectID = "1Nu-yF-fcD"; */
+"1Nu-yF-fcD.title" = "Entrada";
+
+/* Class = "UITextField"; placeholder = "6"; ObjectID = "1Zb-SS-Ix7"; */
+"1Zb-SS-Ix7.placeholder" = "6";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "2Nz-WB-qPk"; */
+"2Nz-WB-qPk.normalTitle" = "Calcular";
+
+/* Class = "UIButton"; normalTitle = "Upgrade & Remove Ads"; ObjectID = "2qP-sd-YIO"; */
+"2qP-sd-YIO.normalTitle" = "Actualizar y eliminar anuncios";
+
+/* Class = "UILabel"; text = "Plan to own your dream home."; ObjectID = "3RD-HK-6qp"; */
+"3RD-HK-6qp.text" = "Planee ser dueño de la casa de sus sueños.";
+
+/* Class = "UINavigationItem"; title = "Schedule"; ObjectID = "3gS-av-kCy"; */
+"3gS-av-kCy.title" = "Calendario";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "4JS-go-ktC"; */
+"4JS-go-ktC.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Loan Term"; ObjectID = "4pY-Rn-FcR"; */
+"4pY-Rn-FcR.text" = "Plazo del préstamo";
+
+/* Class = "UILabel"; text = "Report & feedback "; ObjectID = "4xV-GC-LTd"; */
+"4xV-GC-LTd.text" = "Informe y comentarios ";
+
+/* Class = "UILabel"; text = "Loan Amount"; ObjectID = "580-Ou-nPe"; */
+"580-Ou-nPe.text" = "Importe del préstamo";
+
+/* Class = "UILabel"; text = "$150.000.000"; ObjectID = "5YU-1X-SRQ"; */
+"5YU-1X-SRQ.text" = "";
+
+/* Class = "UINavigationItem"; title = "Loans Comparison"; ObjectID = "5rh-bH-VmU"; */
+"5rh-bH-VmU.title" = "Comparación de préstamos";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "67d-qX-cWz"; */
+"67d-qX-cWz.title" = "atrás";
+
+/* Class = "UITextField"; placeholder = "2000"; ObjectID = "688-wU-zNV"; */
+"688-wU-zNV.placeholder" = "2000";
+
+/* Class = "UILabel"; text = "Number of Payment"; ObjectID = "6Wo-vY-bwf"; */
+"6Wo-vY-bwf.text" = "Número de pago";
+
+/* Class = "UILabel"; text = "Interest rate"; ObjectID = "6c5-Tv-WPS"; */
+"6c5-Tv-WPS.text" = "Tasa de interés";
+
+/* Class = "UIButton"; normalTitle = "Export"; ObjectID = "71b-gZ-hDa"; */
+"71b-gZ-hDa.normalTitle" = "Exportar";
+
+/* Class = "UILabel"; text = "Tools"; ObjectID = "7ES-V6-feW"; */
+"7ES-V6-feW.text" = "Herramientas";
+
+/* Class = "UILabel"; text = "HSBC - Civic "; ObjectID = "7Fa-v5-BnJ"; */
+"7Fa-v5-BnJ.text" = "HSBC - Civic ";
+
+/* Class = "UILabel"; text = "1.0.0"; ObjectID = "7Me-87-1jm"; */
+"7Me-87-1jm.text" = "1.0.0";
+
+/* Class = "UITextField"; placeholder = "50.000"; ObjectID = "7Qy-Vh-b1T"; */
+"7Qy-Vh-b1T.placeholder" = "50.000";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "80W-EW-rCZ"; */
+"80W-EW-rCZ.text" = "$";
+
+/* Class = "UILabel"; text = "Chart"; ObjectID = "8KF-mT-nCg"; */
+"8KF-mT-nCg.text" = "Gráfico";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "9nl-tV-m1f"; */
+"9nl-tV-m1f.text" = "Equilibrar";
+
+/* Class = "UILabel"; text = "months"; ObjectID = "9ny-55-a0z"; */
+"9ny-55-a0z.text" = "meses";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "AEV-3W-naX"; */
+"AEV-3W-naX.normalTitle" = "Calcular";
+
+/* Class = "UILabel"; text = "Interest Rate"; ObjectID = "B9Y-YW-2lU"; */
+"B9Y-YW-2lU.text" = "Tasa de interés";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "BLr-Qd-Nj4"; */
+"BLr-Qd-Nj4.text" = "Resultado";
+
+/* Class = "UILabel"; text = "$100.000.000.000"; ObjectID = "BUg-Fi-mjW"; */
+"BUg-Fi-mjW.text" = "$100.000.000.000";
+
+/* Class = "UIButton"; normalTitle = "Amortization Schedule"; ObjectID = "BYP-ww-u4G"; */
+"BYP-ww-u4G.normalTitle" = "Plan de amortización";
+
+/* Class = "UILabel"; text = "Loan Term"; ObjectID = "BvB-Aq-WV0"; */
+"BvB-Aq-WV0.text" = "Plazo del préstamo";
+
+/* Class = "UILabel"; text = "$0"; ObjectID = "C84-9g-jeg"; */
+"C84-9g-jeg.text" = "$0";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "CML-aV-95g"; */
+"CML-aV-95g.text" = "$";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "DCz-LY-He8"; */
+"DCz-LY-He8.text" = "Equilibrar";
+
+/* Class = "UILabel"; text = "Compare 2 loans (Interest, Loan Amount, Loan Term) for decision making"; ObjectID = "Dyl-20-me7"; */
+"Dyl-20-me7.text" = "Compara 2 préstamos (Interés, Importe del préstamo, Plazo del préstamo) para la toma de decisiones";
+
+/* Class = "UILabel"; text = "Payment Freequency"; ObjectID = "ESy-S1-yak"; */
+"ESy-S1-yak.text" = "Frecuencia de pago";
+
+/* Class = "UILabel"; text = "Total Interest"; ObjectID = "Ext-9C-Jch"; */
+"Ext-9C-Jch.text" = "Total intereses";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "EzW-Dp-Gaa"; */
+"EzW-Dp-Gaa.normalTitle" = "Calcular";
+
+/* Class = "UITextField"; placeholder = "6"; ObjectID = "FMN-fD-4LP"; */
+"FMN-fD-4LP.placeholder" = "6";
+
+/* Class = "UILabel"; text = "Monthly"; ObjectID = "Fn9-1D-Sa9"; */
+"Fn9-1D-Sa9.text" = "Mensual";
+
+/* Class = "UILabel"; text = "$456.000.000.000.000"; ObjectID = "G7F-5l-Fbe"; */
+"G7F-5l-Fbe.text" = "$456.000.000.000.000";
+
+/* Class = "UILabel"; text = "4 years 6 months"; ObjectID = "GaX-vJ-B64"; */
+"GaX-vJ-B64.text" = "4 años 6 meses";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "H9J-TQ-Sea"; */
+"H9J-TQ-Sea.normalTitle" = "Salvar";
+
+/* Class = "UILabel"; text = "Interest Rate"; ObjectID = "HlZ-Jc-ZBA"; */
+"HlZ-Jc-ZBA.text" = "Tasa de interés";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "Hlf-fe-mGG"; */
+"Hlf-fe-mGG.text" = "$";
+
+/* Class = "UILabel"; text = "Loan Term"; ObjectID = "I13-jg-QhW"; */
+"I13-jg-QhW.text" = "Plazo del préstamo";
+
+/* Class = "UILabel"; text = "Interest"; ObjectID = "ICk-J7-xDv"; */
+"ICk-J7-xDv.text" = "Interés";
+
+/* Class = "UILabel"; text = "Repayment Period "; ObjectID = "IJq-wc-9uG"; */
+"IJq-wc-9uG.text" = "Período de reembolso ";
+
+/* Class = "UILabel"; text = "Loan Amount"; ObjectID = "ILS-GQ-eof"; */
+"ILS-GQ-eof.text" = "Importe del préstamo";
+
+/* Class = "UILabel"; text = "180"; ObjectID = "JQi-uZ-59v"; */
+"JQi-uZ-59v.text" = "180";
+
+/* Class = "UILabel"; text = "years"; ObjectID = "Jdj-fe-zHm"; */
+"Jdj-fe-zHm.text" = "años";
+
+/* Class = "UILabel"; text = "Total Interest"; ObjectID = "K0G-Qh-svX"; */
+"K0G-Qh-svX.text" = "Total intereses";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "KB3-NK-6xE"; */
+"KB3-NK-6xE.text" = "$";
+
+/* Class = "UILabel"; text = "Interest"; ObjectID = "KK1-RO-pqf"; */
+"KK1-RO-pqf.text" = "Interés";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "KUR-9e-XJB"; */
+"KUR-9e-XJB.text" = "$";
+
+/* Class = "UILabel"; text = "Payment: $365.65"; ObjectID = "Klg-Ho-rFE"; */
+"Klg-Ho-rFE.text" = "Pago: $365.65";
+
+/* Class = "UITabBarItem"; title = "Result"; ObjectID = "Krq-11-QVT"; */
+"Krq-11-QVT.title" = "Resultado";
+
+/* Class = "UILabel"; text = "Auto Coan Calculator"; ObjectID = "KuQ-xQ-yPz"; */
+"KuQ-xQ-yPz.text" = "Calculadora de Préstamos para Auto";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "LG8-Fl-wkJ"; */
+"LG8-Fl-wkJ.text" = "Equilibrar";
+
+/* Class = "UILabel"; text = "Payment Freequency"; ObjectID = "LhY-sy-kgN"; */
+"LhY-sy-kgN.text" = "Frecuencia de pago";
+
+/* Class = "UILabel"; text = "years"; ObjectID = "Lsa-ys-aDy"; */
+"Lsa-ys-aDy.text" = "años";
+
+/* Class = "UITextField"; placeholder = "6.5"; ObjectID = "MEU-YZ-RRj"; */
+"MEU-YZ-RRj.placeholder" = "6.5";
+
+/* Class = "UILabel"; text = "Principal"; ObjectID = "MWz-tY-baR"; */
+"MWz-tY-baR.text" = "Director de escuela";
+
+/* Class = "UILabel"; text = "5.6%"; ObjectID = "Mgj-T0-27H"; */
+"Mgj-T0-27H.text" = "5.6%";
+
+/* Class = "UIButton"; normalTitle = "Monthly"; ObjectID = "MhQ-xR-fam"; */
+"MhQ-xR-fam.normalTitle" = "Mensual";
+
+/* Class = "UIButton"; normalTitle = "Amortization Schedule"; ObjectID = "NZc-vC-7uZ"; */
+"NZc-vC-7uZ.normalTitle" = "Plan de amortización";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "Nk9-eW-LD4"; */
+"Nk9-eW-LD4.text" = "Resultado";
+
+/* Class = "UILabel"; text = "5.6%"; ObjectID = "Nws-ks-9VS"; */
+"Nws-ks-9VS.text" = "5.6%";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "Nyt-Th-OUY"; */
+"Nyt-Th-OUY.text" = "#";
+
+/* Class = "UILabel"; text = "6 years 4 months"; ObjectID = "OYS-mh-AcN"; */
+"OYS-mh-AcN.text" = "6 años 4 meses";
+
+/* Class = "UITextField"; placeholder = "2"; ObjectID = "PMM-Xz-8rR"; */
+"PMM-Xz-8rR.placeholder" = "2";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "PrC-dy-m19"; */
+"PrC-dy-m19.text" = "#";
+
+/* Class = "UILabel"; text = "Loan Infomation"; ObjectID = "RFH-jK-d2n"; */
+"RFH-jK-d2n.text" = "Información del préstamo";
+
+/* Class = "UILabel"; text = "Repayment Period Calculator"; ObjectID = "RX8-fc-qmX"; */
+"RX8-fc-qmX.text" = "Calculadora del período de amortización";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "Rmf-b5-4Ni"; */
+"Rmf-b5-4Ni.normalTitle" = "Calcular";
+
+/* Class = "UIBarButtonItem"; title = "Email Result"; ObjectID = "S9m-rl-oML"; */
+"S9m-rl-oML.title" = "Email";
+
+/* Class = "UILabel"; text = "Created date: 21/08/2019"; ObjectID = "SLG-aI-qGh"; */
+"SLG-aI-qGh.text" = "Fecha de creación: 21/08/2019";
+
+/* Class = "UITextField"; placeholder = "50.000"; ObjectID = "SSE-ld-uSl"; */
+"SSE-ld-uSl.placeholder" = "50.000";
+
+/* Class = "UITextField"; placeholder = "6.5"; ObjectID = "TeP-zW-eqz"; */
+"TeP-zW-eqz.placeholder" = "6.5";
+
+/* Class = "UILabel"; text = "Input"; ObjectID = "Tfp-s9-lQE"; */
+"Tfp-s9-lQE.text" = "Entrada";
+
+/* Class = "UINavigationItem"; title = "Saved Loans"; ObjectID = "Tip-DU-bcd"; */
+"Tip-DU-bcd.title" = "Préstamos ahorrados";
+
+/* Class = "UILabel"; text = "Principal"; ObjectID = "Tos-D6-tHg"; */
+"Tos-D6-tHg.text" = "Director de escuela";
+
+/* Class = "UINavigationItem"; title = "Input"; ObjectID = "UXk-R6-6SX"; */
+"UXk-R6-6SX.title" = "Entrada";
+
+/* Class = "UILabel"; text = "Principal"; ObjectID = "V7I-uh-cfV"; */
+"V7I-uh-cfV.text" = "Director de escuela";
+
+/* Class = "UILabel"; text = "Interest Rate"; ObjectID = "VAl-XN-qNN"; */
+"VAl-XN-qNN.text" = "Tasa de interés";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "WS0-wg-Vc0"; */
+"WS0-wg-Vc0.text" = "#";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "WUk-zo-cAV"; */
+"WUk-zo-cAV.text" = "%";
+
+/* Class = "UILabel"; text = "Created date: 02/09/2020"; ObjectID = "Wn9-Wl-sOn"; */
+"Wn9-Wl-sOn.text" = "Fecha de creación: 02/09/2020";
+
+/* Class = "UILabel"; text = "Monthly rate assumes 12 months per year."; ObjectID = "YkR-ad-xUc"; */
+"YkR-ad-xUc.text" = "La tasa mensual asume 12 meses por año.";
+
+/* Class = "UILabel"; text = "$150.000.000"; ObjectID = "ZS2-mA-mU1"; */
+"ZS2-mA-mU1.text" = "$150.000.000";
+
+/* Class = "UINavigationItem"; title = "New Loan"; ObjectID = "ZV8-Th-dVp"; */
+"ZV8-Th-dVp.title" = "Préstamo nuevo";
+
+/* Class = "UINavigationItem"; title = "Repayment time"; ObjectID = "an3-Vr-4Xw"; */
+"an3-Vr-4Xw.title" = "Tiempo de reembolso";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "bHu-bu-lBj"; */
+"bHu-bu-lBj.text" = "Resultado";
+
+/* Class = "UILabel"; text = "Payment Freequency"; ObjectID = "bW7-RP-wpY"; */
+"bW7-RP-wpY.text" = "Frecuencia de pago";
+
+/* Class = "UINavigationItem"; title = "Schedule"; ObjectID = "btj-BC-FAs"; */
+"btj-BC-FAs.title" = "Calendario";
+
+/* Class = "UILabel"; text = "months"; ObjectID = "cKK-vD-1DS"; */
+"cKK-vD-1DS.text" = "meses";
+
+/* Class = "UILabel"; text = "Loan B"; ObjectID = "clr-jX-JuK"; */
+"clr-jX-JuK.text" = "Préstamo B";
+
+/* Class = "UILabel"; text = "Monthly"; ObjectID = "daq-Df-wNK"; */
+"daq-Df-wNK.text" = "Mensual";
+
+/* Class = "UILabel"; text = "# of payment"; ObjectID = "dlw-6s-C6d"; */
+"dlw-6s-C6d.text" = "# de pago";
+
+/* Class = "UILabel"; text = "Calculate the repayment period based on the periodic payment"; ObjectID = "e2m-t9-m2m"; */
+"e2m-t9-m2m.text" = "Calcule el período de amortización en función del pago periódico";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "edv-zi-k74"; */
+"edv-zi-k74.title" = "ítem";
+
+/* Class = "UILabel"; text = "Payment Frequency"; ObjectID = "edz-OH-EdJ"; */
+"edz-OH-EdJ.text" = "Frecuencia de pago";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "fUR-WU-b4h"; */
+"fUR-WU-b4h.text" = "$";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "fVC-Gs-630"; */
+"fVC-Gs-630.text" = "Pago";
+
+/* Class = "UILabel"; text = "Restore"; ObjectID = "fcw-GZ-mDU"; */
+"fcw-GZ-mDU.text" = "Restore";
+
+/* Class = "UILabel"; text = "Interest"; ObjectID = "fgm-hi-rHA"; */
+"fgm-hi-rHA.text" = "Interés";
+
+/* Class = "UITabBarItem"; title = "Saved Loans"; ObjectID = "fhc-ms-a1v"; */
+"fhc-ms-a1v.title" = "Préstamos ahorrados";
+
+/* Class = "UILabel"; text = "Number of Payment"; ObjectID = "flQ-4y-CR7"; */
+"flQ-4y-CR7.text" = "Número de pago";
+
+/* Class = "UILabel"; text = "Chart"; ObjectID = "foK-BP-vPz"; */
+"foK-BP-vPz.text" = "Gráfico";
+
+/* Class = "UILabel"; text = "months"; ObjectID = "gOX-wz-edH"; */
+"gOX-wz-edH.text" = "meses";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "gQv-Hl-ZOC"; */
+"gQv-Hl-ZOC.normalTitle" = "Hecho";
+
+/* Class = "UILabel"; text = "Mortgage Calculator"; ObjectID = "gWz-l5-9Q8"; */
+"gWz-l5-9Q8.text" = "Calculadora de hipoteca";
+
+/* Class = "UILabel"; text = "Loan Amount"; ObjectID = "gcX-RU-Cce"; */
+"gcX-RU-Cce.text" = "Importe del préstamo";
+
+/* Class = "UILabel"; text = "Payment Every Month"; ObjectID = "hRb-dH-Qpz"; */
+"hRb-dH-Qpz.text" = "Pago cada mes";
+
+/* Class = "UILabel"; text = "✎"; ObjectID = "hT2-vb-KPd"; */
+"hT2-vb-KPd.text" = "✎";
+
+/* Class = "UILabel"; text = "7%"; ObjectID = "i2h-OH-Xwo"; */
+"i2h-OH-Xwo.text" = "7%";
+
+/* Class = "UILabel"; text = "Loan Amount"; ObjectID = "iN5-yg-c4P"; */
+"iN5-yg-c4P.text" = "Importe del préstamo";
+
+/* Class = "UILabel"; text = "Plan to own your favorite car right now."; ObjectID = "iwi-1S-bRB"; */
+"iwi-1S-bRB.text" = "Planea tener tu auto favorito ahora mismo.";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "jO8-g0-Ofj"; */
+"jO8-g0-Ofj.text" = "Pago";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "jOP-dh-eTG"; */
+"jOP-dh-eTG.text" = "Versión";
+
+/* Class = "UILabel"; text = "$0"; ObjectID = "jTj-0Y-rLx"; */
+"jTj-0Y-rLx.text" = "";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "k5d-1i-rOh"; */
+"k5d-1i-rOh.text" = "Resultado";
+
+/* Class = "UITextField"; placeholder = "6.5"; ObjectID = "kDc-g1-MRb"; */
+"kDc-g1-MRb.placeholder" = "6.5";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "kWb-iv-mcv"; */
+"kWb-iv-mcv.text" = "0";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "kch-UA-1gp"; */
+"kch-UA-1gp.text" = "$";
+
+/* Class = "UILabel"; text = "$20.000"; ObjectID = "kkc-Iv-15w"; */
+"kkc-Iv-15w.text" = "$20.000";
+
+/* Class = "UILabel"; text = "180"; ObjectID = "m2L-Mj-bkU"; */
+"m2L-Mj-bkU.text" = "";
+
+/* Class = "UIButton"; normalTitle = "See All"; ObjectID = "m59-jI-iiO"; */
+"m59-jI-iiO.normalTitle" = "Ver todo";
+
+/* Class = "UILabel"; text = "Interest Rate"; ObjectID = "mnJ-i6-G1j"; */
+"mnJ-i6-G1j.text" = "Tasa de interés";
+
+/* Class = "UINavigationItem"; title = "Result"; ObjectID = "nAg-o0-FTP"; */
+"nAg-o0-FTP.title" = "Resultado";
+
+/* Class = "UINavigationItem"; title = "Infomation"; ObjectID = "nJ6-XU-HJI"; */
+"nJ6-XU-HJI.title" = "Información";
+
+/* Class = "UILabel"; text = "5.6%"; ObjectID = "no7-4R-rra"; */
+"no7-4R-rra.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Monthly"; ObjectID = "oZN-Il-XB5"; */
+"oZN-Il-XB5.normalTitle" = "Mensual";
+
+/* Class = "UILabel"; text = "Our other apps"; ObjectID = "ocn-BB-sRE"; */
+"ocn-BB-sRE.text" = "Nuestras otras aplicaciones";
+
+/* Class = "UILabel"; text = "#"; ObjectID = "okE-V5-Zyc"; */
+"okE-V5-Zyc.text" = "#";
+
+/* Class = "UILabel"; text = "Interest Rate"; ObjectID = "oxz-4M-slc"; */
+"oxz-4M-slc.text" = "Tasa de interés";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "p8k-dj-0Q3"; */
+"p8k-dj-0Q3.text" = "Equilibrar";
+
+/* Class = "UILabel"; text = "Payment Every Month"; ObjectID = "pGG-w8-45G"; */
+"pGG-w8-45G.text" = "Pago cada mes";
+
+/* Class = "UITextField"; placeholder = "2"; ObjectID = "qEr-Uf-mPa"; */
+"qEr-Uf-mPa.placeholder" = "2";
+
+/* Class = "UILabel"; text = "Loan Term"; ObjectID = "r8L-oM-f6T"; */
+"r8L-oM-f6T.text" = "Plazo del préstamo";
+
+/* Class = "UILabel"; text = "Loan Amount"; ObjectID = "req-4p-U6B"; */
+"req-4p-U6B.text" = "Importe del préstamo";
+
+/* Class = "UILabel"; text = "Total Repaid"; ObjectID = "s0b-bN-1tx"; */
+"s0b-bN-1tx.text" = "Total reembolsado";
+
+/* Class = "UITabBarItem"; title = "Info"; ObjectID = "sGQ-9z-xGq"; */
+"sGQ-9z-xGq.title" = "Información";
+
+/* Class = "UILabel"; text = "Interest"; ObjectID = "sT9-13-4aF"; */
+"sT9-13-4aF.text" = "Interés";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "scf-4I-oO6"; */
+"scf-4I-oO6.text" = "%/año";
+
+/* Class = "UIBarButtonItem"; title = "Email Result"; ObjectID = "tCL-KP-ywa"; */
+"tCL-KP-ywa.title" = "Email";
+
+/* Class = "UILabel"; text = "Payment Frequency"; ObjectID = "tpv-kc-WBF"; */
+"tpv-kc-WBF.text" = "Frecuencia de pago";
+
+/* Class = "UILabel"; text = "Note: Figures are calculated relative (365.25 days per year, 52 weeks per year)"; ObjectID = "u3n-4X-U7A"; */
+"u3n-4X-U7A.text" = "Note: Figures are calculated relative (365.25 days per year, 52 weeks per year)";
+
+/* Class = "UILabel"; text = "Total Interest"; ObjectID = "uib-4d-Fh8"; */
+"uib-4d-Fh8.text" = "Total intereses";
+
+/* Class = "UIButton"; normalTitle = "Monthly"; ObjectID = "uv3-hL-aXQ"; */
+"uv3-hL-aXQ.normalTitle" = "Mensual";
+
+/* Class = "UIButton"; normalTitle = "Monthly"; ObjectID = "vGG-aO-Rym"; */
+"vGG-aO-Rym.normalTitle" = "Mensual";
+
+/* Class = "UILabel"; text = "years"; ObjectID = "vGx-6C-4bA"; */
+"vGx-6C-4bA.text" = "años";
+
+/* Class = "UILabel"; text = "0 year 0 month"; ObjectID = "vRE-AX-iPB"; */
+"vRE-AX-iPB.text" = "0 año 0 mes";
+
+/* Class = "UILabel"; text = "Input"; ObjectID = "vXa-P4-P9F"; */
+"vXa-P4-P9F.text" = "Entrada";
+
+/* Class = "UILabel"; text = "Loan Term"; ObjectID = "vpI-RP-omD"; */
+"vpI-RP-omD.text" = "Plazo del préstamo";
+
+/* Class = "UILabel"; text = "Purchase date"; ObjectID = "vpZ-G9-gwd"; */
+"vpZ-G9-gwd.text" = "Fecha de compra";
+
+/* Class = "UILabel"; text = "Payment Frequency"; ObjectID = "wQi-Py-Sug"; */
+"wQi-Py-Sug.text" = "Frecuencia de pago";
+
+/* Class = "UILabel"; text = "Loan Amount"; ObjectID = "wbH-H6-VLT"; */
+"wbH-H6-VLT.text" = "Importe del préstamo";
+
+/* Class = "UILabel"; text = "Loan A"; ObjectID = "wic-Ha-tfp"; */
+"wic-Ha-tfp.text" = "Préstamo A";
+
+/* Class = "UILabel"; text = "Principal"; ObjectID = "xs0-mg-bMd"; */
+"xs0-mg-bMd.text" = "Director de escuela";
+
+/* Class = "UILabel"; text = "Total Repaid"; ObjectID = "yKg-8H-Hz3"; */
+"yKg-8H-Hz3.text" = "Total reembolsado";
+
+/* Class = "UILabel"; text = "Payment: $365.65"; ObjectID = "ygn-9d-3mb"; */
+"ygn-9d-3mb.text" = "Pago: $365.65";
+
+/* Class = "UITextField"; placeholder = "50.000"; ObjectID = "zGI-tg-eWa"; */
+"zGI-tg-eWa.placeholder" = "50.000";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "zIb-M2-vTa"; */
+"zIb-M2-vTa.text" = "$";
+
+/* Class = "UIButton"; normalTitle = "Monthly"; ObjectID = "zKM-Bz-D0G"; */
+"zKM-Bz-D0G.normalTitle" = "Mensual";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "1ud-rK-ZA2"; */
+"1ud-rK-ZA2.normalTitle" = "Editar";
+
+
+
+//26/03/2025
+/* Class = "UINavigationItem"; title = "Loan Calc"; ObjectID = "UXk-R6-6SX"; */
+"UXk-R6-6SX.title" = "Calculadora";
+
+/* Class = "UITabBarItem"; title = "Input"; ObjectID = "1Nu-yF-fcD"; */
+"1Nu-yF-fcD.title" = "Calculadora";
+
+/* Class = "UINavigationItem"; title = "Schedule"; ObjectID = "9Xe-gg-H5C"; */
+"9Xe-gg-H5C.title" = "Herramientas";
+
+/* Class = "UITabBarItem"; title = "Tools"; ObjectID = "gKj-md-d1u"; */
+"gKj-md-d1u.title" = "Herramientas";

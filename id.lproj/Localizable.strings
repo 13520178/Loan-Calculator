@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "INDO";
+"currency" = "Rp";
+"theLoanTermTooBigYears" = "Jangka waktu pinjaman (Tahun) terlalu besar, silahkan coba lagi!";
+"theLoanTermTooBigMonths" = "Jangka waktu pinjaman (Bulan) terlalu besar, harap coba lagi!";
+
+"pleaseTapCalculate" = "Silakan ketuk Hitung di bawah tab Input sebelum menggunakan fitur ini";
+"thereWasAnError" = "Terjadi kesalahan dalam proses masukan, harap periksa kembali.";
+"theLoanInterestRateTooBig" = "Jangka waktu pinjaman terlalu besar, harap coba lagi!";
+"youDoNotNeedALoan" = "Pembayaran Anda lebih besar dari jumlah yang harus Anda bayarkan. Anda tidak membutuhkan pinjaman.";
+"anErrorOccurred" = "Terjadi kesalahan, coba lagi.";
+"pleaseDoNotLeaveTheNameBlank" = "Harap jangan biarkan nama kosong";
+"createdDate" = "Tanggal dibuat";
+"year" = "tahun";
+"years" = "tahun";
+"month" = "bulan";
+"months" = "bulan";
+"day" = "hari";
+"days" = "hari";
+"delete" = "Menghapus";
+"removeAdsAndSupportingOurDevelopment" = "Hapus iklan dan dukung perkembangan kami";
+"loanTermMustBeAPositiveInteger" = "Jangka waktu pinjaman harus berupa bilangan bulat positif";
+"appName" = "Simulasi Pinjaman";
+"input" = "Masukan";
+"total" = "Total";
+"result" = "Hasil";
+"loanTerm" = "Jangka Waktu Pinjaman";
+"interestRate" = "Suku Bunga";
+"loanAmount" = "Jumlah Pinjaman";
+"totalInterest" = "Bunga Total";
+"youCantCompleteTheLoan" = "Pinjaman tidak dapat diselesaikan dengan pembayaran ini.";
+"interestRateIsNotNegative" = "Suku Bunga tidak boleh negatif";
+"loanAmountIsNotNegative" = "Jumlah Pinjaman tidak boleh negatif";
+"monthIsNotNegative" = "Bulan tidak boleh negatif";
+"yearIsNotNegative" = "Tahun tidak boleh negatif";
+"paymentIsNotNegative" = "Pembayaran tidak boleh negatif";
+"paymentFrequency" = "Frekuensi Pembayaran";
+"payment" = "Pembayaran";
+"numberOfPayment" = "Jumlah Pembayaran";
+"totalRepaid" = "Pengembalian dana total";
+"paymentIsNotZeroOrBlank" = "Pembayaran harus lebih dari 0";
+"loanTermMustBeAPositiveIntegerA" = "Jangka Waktu Pinjaman (Pinjaman A) harus berupa bilangan bulat positif";
+"loanTermMustBeAPositiveIntegerB" = "Jangka Waktu Pinjaman (Pinjaman B) harus berupa bilangan bulat positif";
+"interestRateIsNotNegativeA" = "Suku Bunga (Pinjaman A) tidak boleh negatif";
+"interestRateIsNotNegativeB" = "Suku Bunga (Pinjaman B) tidak boleh negatif";
+"loanAmountIsNotNegativeA" = "Jumlah Pinjaman (Pinjaman A) tidak boleh negatif";
+"loanAmountIsNotNegativeB" = "Jumlah Pinjaman (Pinjaman B) tidak boleh negatif";
+"monthIsNotNegativeA" = "Bulan (Pinjaman A) tidak boleh negatif";
+"monthIsNotNegativeB" = "Bulan (Pinjaman B) tidak boleh negatif";
+"yearIsNotNegativeA" = "Tahun (Pinjaman A) tidak boleh negatif";
+"yearIsNotNegativeB" = "Tahun (Pinjaman B) tidak boleh negatif";
+"theLoanTermTooBigYearsA" = "Jumlah tahun (Pinjaman A) terlalu besar, silakan coba lagi!";
+"theLoanTermTooBigYearsB" = "Jumlah tahun (Pinjaman B) terlalu besar, harap coba lagi!";
+"theLoanTermTooBigMonthsA" = "Jumlah bulan (Pinjaman A) terlalu besar, harap coba lagi!";
+"theLoanTermTooBigMonthsB" = "Jumlah bulan (Pinjaman B) terlalu besar, harap coba lagi!";
+"theLoanInterestRateTooBigA" = "Suku Bunga (Pinjaman A) terlalu besar, silakan coba lagi!";
+"theLoanInterestRateTooBigB" = "Suku Bunga (Pinjaman B) terlalu besar, silakan coba lagi!";
+"daily" = "Harian";
+"weekly" = "Mingguan";
+"monthly" = "Bulanan";
+"quarterly" = "Triwulanan";
+"semiannually" = "Semi-Tahunan";
+"annually" = "Setiap tahun";
+"error" = "Kesalahan";
+"notification" = "Pemberitahuan";
+"interestRateDefine" = "Suku bunga - Tingkat persentase tahunan (APR) adalah suku bunga tahunan yang dikenakan untuk pinjaman.";
+"unableToSendMail" = "Tidak dapat mengirim email";
+"unableToSendMailDefine" = "Perangkat Anda tidak dapat mengirim email";
+"paymentEveryDay" = "Pembayaran Setiap Hari";
+"paymentEveryWeek" = "Pembayaran Setiap Minggu";
+"paymentEveryMonth" = "Pembayaran Setiap Bulan";
+"paymentEveryQuarter" = "Pembayaran Setiap Kuartal";
+"paymentEverySixMonth" = "Pembayaran Setiap 6 Bulan";
+"paymentEveryYear" = "Pembayaran Setiap Tahun";
+"interest" = "Bunga";
+"principal" = "Angsuran Pokok";
+"balance" = "Saldo Pinjaman";
+"amortizationSchedule" = "Jadwal Amortisasi";
+"questionAbout" = "Pertanyaan tentang Simulasi Pinjaman";
+"edit" = "Edit";
+"editName" = "Edit Nama";
+"editPurchaseDate" = "Edit tanggal pembelian";
+"upgradeAndRemoveAdsDetails0" = "Fitur ini terkunci.";
+"upgradeAndRemoveAds" = "Tingkatkan versi untuk menghapus iklan dan membuka kunci semua fitur. Hanya ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - Kirim hasilnya lewat email";
+"upgradeAndRemoveAdsDetails2" = "\n - Ekspor ke file CSV";
+"upgradeAndRemoveAdsDetails3" = "\n - Perhitungan jangka waktu pinjaman";
+"upgradeAndRemoveAdsDetails4" = "\n - Bandingkan Pinjaman";
+
+"lifeTimeUpgrade" = "Upgrade Seumur Hidup, hanya ";
+"decimalPlaces0To8" = "Tempat desimal harus berupa bilangan asli antara 0 dan 8";
+"decimalPlaces" = "Tempat desimal";
+"decimalPlacesAlert" = "Masukkan bilangan asli dari 0 hingga 8";
+"restoreWasSuccessful" = "Pemulihan berhasil!";
+"premium" = "Premium";
+"back" = "Kembali";
+"loanCalculator" = "Kalkulator pinjaman";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "Tingkatkan untuk menghapus iklan dan membuka kunci semua fungsi. Anda hanya perlu memutakhirkan sekali untuk membuka kunci semua fitur selamanya.";
+"calculateLoanPeriods" = "Kalkulator Periode Pembayaran";
+"compareLoans" = "Perbandingan Pinjaman";
+"emailTheResult" = "✪ Kirimkan hasilnya melalui email";
+"exportToCSV" = "✪ Ekspor ke File CSV";
+"setDecimalPlaces" = "✪ Tetapkan Tempat Desimal";
+"removeAds" = "✪ Hilangkan iklan";
+"supportOurDevelopment" = "✪ Dukung Perkembangan Kami";
+"upgrade" = "Tingkatkan";
+"notNow" = "Tidak sekarang";

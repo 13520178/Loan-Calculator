@@ -1,0 +1,115 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "US";
+"currency" = "$";
+"theLoanTermTooBigYears" = "The loan term (Year) is too big, please try again!";
+"theLoanTermTooBigMonths" = "The loan term (Month) is too big, please try again!";
+
+"pleaseTapCalculate" = "Please tap Calculate under Input tab before using this feature";
+"thereWasAnError" = "There was an error in the input process, please check again.";
+"theLoanInterestRateTooBig" = "The Interest Rate is too big, please try again!";
+"youDoNotNeedALoan" = "Your payment is greater than the amount you have to pay. You do not need a loan.";
+"anErrorOccurred" = "An error occurred, please try again.";
+"pleaseDoNotLeaveTheNameBlank" = "Please do not leave the name blank";
+"createdDate" = "Created date";
+"year" = "year";
+"years" = "years";
+"month" = "month";
+"months" = "months";
+"day" = "day";
+"days" = "days";
+"delete" = "Delete";
+"removeAdsAndSupportingOurDevelopment" = "Remove ads and supporting our development";
+"loanTermMustBeAPositiveInteger" = "Loan term must be a positive integer";
+"appName" = "Loan Calculator";
+"input" = "Input";
+"total" = "Total";
+"result" = "Result";
+"loanTerm" = "Loan Term";
+"interestRate" = "Interest Rate";
+"loanAmount" = "Loan Amount";
+"totalInterest" = "Total Interest";
+"youCantCompleteTheLoan" = "The loan cannot be completed with this payment.";
+"interestRateIsNotNegative" = "Interest Rate cannot be negative";
+"loanAmountIsNotNegative" = "Loan Amount cannot be negative";
+"monthIsNotNegative" = "Months cannot be negative";
+"yearIsNotNegative" = "Years cannot be negative";
+"paymentIsNotNegative" = "Payment cannot be negative";
+"paymentFrequency" = "Payment Frequency";
+"payment" = "Payment";
+"numberOfPayment" = "Number of Payment";
+"totalRepaid" = "Total Repaid";
+"paymentIsNotZeroOrBlank" = "Payment must be a number greater than 0";
+"loanTermMustBeAPositiveIntegerA" = "Loan Term (Loan A) must be a positive integer";
+"loanTermMustBeAPositiveIntegerB" = "Loan Term (Loan B) must be a positive integer";
+"interestRateIsNotNegativeA" = "Interest Rate (Loan A) cannot be negative";
+"interestRateIsNotNegativeB" = "Interest Rate (Loan B) cannot be negative";
+"loanAmountIsNotNegativeA" = "Loan Amount (Loan A) cannot be negative";
+"loanAmountIsNotNegativeB" = "Loan Amount (Loan B) cannot be negative";
+"monthIsNotNegativeA" = "Month (Loan A) cannot be negative";
+"monthIsNotNegativeB" = "Month (Loan B) cannot be negative";
+"yearIsNotNegativeA" = "Year (Loan A) cannot be negative";
+"yearIsNotNegativeB" = "Year (Loan B) cannot be negative";
+"theLoanTermTooBigYearsA" = "The number of years (Loan A) is too big, please try again!";
+"theLoanTermTooBigYearsB" = "The number of years (Loan B) is too big, please try again!";
+"theLoanTermTooBigMonthsA" = "The number of months (Loan A) is too big, please try again!";
+"theLoanTermTooBigMonthsB" = "The number of months (Loan B) is too big, please try again!";
+"theLoanInterestRateTooBigA" = "The Interest Rate (Loan A) is too big, please try again!";
+"theLoanInterestRateTooBigB" = "The Interest Rate (Loan B) is too big, please try again!";
+"daily" = "Daily";
+"weekly" = "Weekly";
+"monthly" = "Monthly";
+"quarterly" = "Quarterly";
+"semiannually" = "Semi-Annually";
+"annually" = "Annually";
+"error" = "Error";
+"notification" = "Notification";
+"interestRateDefine" = "Interest rate - An annual percentage rate (APR) is the annual rate charged for borrowing.";
+"unableToSendMail" = "Unable to send mail";
+"unableToSendMailDefine" = "Your device cannot send mail";
+"paymentEveryDay" = "Payment Every Day";
+"paymentEveryWeek" = "Payment Every Week";
+"paymentEveryMonth" = "Payment Every Month";
+"paymentEveryQuarter" = "Payment Every Quarter";
+"paymentEverySixMonth" = "Payment Every 6 Months";
+"paymentEveryYear" = "Payment Every Year";
+"interest" = "Interest";
+"principal" = "Principal";
+"balance" = "Balance";
+"amortizationSchedule" = "Amortization Schedule";
+"questionAbout" = "Question about Loan Calculator";
+"edit" = "Edit";
+"editName" = "Edit Name";
+"editPurchaseDate" = "Edit purchase date";
+"upgradeAndRemoveAdsDetails0" = "This feature is locked.";
+"upgradeAndRemoveAds" = "Upgrade to remove ads and unlock all features. Only ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - Email the results";
+"upgradeAndRemoveAdsDetails2" = "\n - Export to CSV file";
+"upgradeAndRemoveAdsDetails3" = "\n - Calculate Loan Period ";
+"upgradeAndRemoveAdsDetails4" = "\n - Compare Loans";
+
+"lifeTimeUpgrade" = "Lifetime Upgrade, only ";
+"decimalPlaces0To8" = "Decimal places must be a natural number between 0 and 8";
+"decimalPlaces" = "Decimal Places";
+"decimalPlacesAlert" = "Enter a natural number from 0 to 8";
+"restoreWasSuccessful" = "Restore was successful!";
+"premium" = "Premium";
+"back" = "Back";
+"loanCalculator" = "Loan Calculator";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "Upgrade to remove ads and unlock all functions. You only need to upgrade once to unlock all features forever.";
+"calculateLoanPeriods" = "Repayment Period Calculator";
+"compareLoans" = "Loans Comparison";
+"emailTheResult" = "Email the Results";
+"exportToCSV" = "Export to CSV File";
+"setDecimalPlaces" = "Set Decimal Places";
+"removeAds" = "Remove Ads";
+"supportOurDevelopment" = "Support Our Development";
+"upgrade" = "Upgrade";
+"notNow" = "Not Now";
+

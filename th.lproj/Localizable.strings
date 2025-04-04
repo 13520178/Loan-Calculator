@@ -1,0 +1,114 @@
+/*
+  Localizable.strings
+  Loan Calculator
+
+  Created by Phan Đăng on 8/24/20.
+  Copyright © 2020 Phan Đăng. All rights reserved.
+*/
+
+"country" = "THAI";
+"currency" = "฿";
+"theLoanTermTooBigYears" = "ระยะเวลากู้ยืม (ปี) ใหญ่เกินไปโปรดลองอีกครั้ง!";
+"theLoanTermTooBigMonths" = "ระยะเวลาเงินกู้ (เดือน) ใหญ่เกินไปโปรดลองอีกครั้ง!";
+
+"pleaseTapCalculate" = "โปรดแตะคำนวณใต้แท็บป้อนข้อมูลก่อนใช้คุณสมบัตินี้";
+"thereWasAnError" = "เกิดข้อผิดพลาดในกระบวนการป้อนข้อมูลโปรดตรวจสอบอีกครั้ง";
+"theLoanInterestRateTooBig" = "ระยะเวลาเงินกู้ใหญ่เกินไปโปรดลองอีกครั้ง!";
+"youDoNotNeedALoan" = "การชำระเงินของคุณมากกว่าจำนวนเงินที่คุณต้องจ่าย คุณไม่ต้องการเงินกู้";
+"anErrorOccurred" = "เกิดข้อผิดพลาดโปรดลองอีกครั้ง";
+"pleaseDoNotLeaveTheNameBlank" = "กรุณาอย่าปล่อยชื่อว่างไว้";
+"createdDate" = "วันที่สร้าง";
+"year" = "ปี";
+"years" = "ปี";
+"month" = "เดือนที่";
+"months" = "เดือน";
+"day" = "วัน";
+"days" = "วัน";
+"delete" = "ลบ";
+"removeAdsAndSupportingOurDevelopment" = "ลบโฆษณาและสนับสนุนการพัฒนาของเรา";
+"loanTermMustBeAPositiveInteger" = "ระยะเวลากู้ยืมต้องเป็นจำนวนเต็มบวก";
+"appName" = "เครื่องคำนวณเงินกู้";
+"input" = "อินพุต";
+"total" = "รวม";
+"result" = "ผลลัพธ์";
+"loanTerm" = "ระยะเวลากู้ยืม";
+"interestRate" = "อัตราดอกเบี้ย";
+"loanAmount" = "วงเงินกู้";
+"totalInterest" = "ดอกเบี้ยทั้งหมด";
+"youCantCompleteTheLoan" = "ไม่สามารถกู้เงินได้ด้วยการชำระเงินนี้";
+"interestRateIsNotNegative" = "อัตราดอกเบี้ยต้องไม่ติดลบ";
+"loanAmountIsNotNegative" = "จำนวนเงินกู้ต้องไม่ติดลบ";
+"monthIsNotNegative" = "เดือนต้องไม่ติดลบ";
+"yearIsNotNegative" = "ปีไม่สามารถติดลบได้";
+"paymentIsNotNegative" = "การชำระเงินต้องไม่ติดลบ";
+"paymentFrequency" = "ความถี่ในการชำระเงิน";
+"payment" = "การชำระเงิน";
+"numberOfPayment" = "จำนวนการชำระเงิน";
+"totalRepaid" = "ชำระคืนทั้งหมด";
+"paymentIsNotZeroOrBlank" = "การชำระเงินต้องเป็นตัวเลขที่มากกว่า 0";
+"loanTermMustBeAPositiveIntegerA" = "ระยะเวลากู้ยืม (เงินกู้ก) ต้องเป็นจำนวนเต็มบวก";
+"loanTermMustBeAPositiveIntegerB" = "ระยะเวลากู้ยืม (เงินกู้ B) ต้องเป็นจำนวนเต็มบวก";
+"interestRateIsNotNegativeA" = "อัตราดอกเบี้ย (เงินกู้ A) ไม่สามารถติดลบได้";
+"interestRateIsNotNegativeB" = "อัตราดอกเบี้ย (เงินกู้ B) ไม่สามารถติดลบได้";
+"loanAmountIsNotNegativeA" = "จำนวนเงินกู้ (เงินกู้ A) ไม่สามารถติดลบได้";
+"loanAmountIsNotNegativeB" = "จำนวนเงินกู้ (เงินกู้ B) ไม่สามารถติดลบได้";
+"monthIsNotNegativeA" = "เดือน (เงินกู้ A) ไม่สามารถติดลบได้";
+"monthIsNotNegativeB" = "เดือน (เงินกู้ B) ไม่สามารถติดลบได้";
+"yearIsNotNegativeA" = "ปี (เงินกู้ A) ไม่สามารถติดลบได้";
+"yearIsNotNegativeB" = "ปี (เงินกู้ B) ไม่สามารถติดลบได้";
+"theLoanTermTooBigYearsA" = "จำนวนปี (เงินกู้ก) ใหญ่เกินไปโปรดลองอีกครั้ง!";
+"theLoanTermTooBigYearsB" = "จำนวนปี (เงินกู้ B) ใหญ่เกินไปโปรดลองอีกครั้ง!";
+"theLoanTermTooBigMonthsA" = "จำนวนเดือน (เงินกู้ก) ใหญ่เกินไปโปรดลองอีกครั้ง!";
+"theLoanTermTooBigMonthsB" = "จำนวนเดือน (เงินกู้ B) ใหญ่เกินไปโปรดลองอีกครั้ง!";
+"theLoanInterestRateTooBigA" = "อัตราดอกเบี้ย (เงินกู้ก) สูงเกินไปโปรดลองอีกครั้ง!";
+"theLoanInterestRateTooBigB" = "อัตราดอกเบี้ย (เงินกู้ B) สูงเกินไปโปรดลองอีกครั้ง!";
+"daily" = "ทุกวัน";
+"weekly" = "รายสัปดาห์";
+"monthly" = "รายเดือน";
+"quarterly" = "รายไตรมาส";
+"semiannually" = "ทุกครึ่งปี";
+"annually" = "เป็นประจำทุกปี";
+"error" = "ข้อผิดพลาด";
+"notification" = "การแจ้งเตือน";
+"interestRateDefine" = "อัตราดอกเบี้ย - อัตราร้อยละต่อปี (APR) คืออัตราต่อปีที่เรียกเก็บสำหรับการกู้ยืม";
+"unableToSendMail" = "ไม่สามารถส่งอีเมล";
+"unableToSendMailDefine" = "อุปกรณ์ของคุณไม่สามารถส่งเมลได้";
+"paymentEveryDay" = "ชำระเงินทุกวัน";
+"paymentEveryWeek" = "ชำระเงินทุกสัปดาห์";
+"paymentEveryMonth" = "ชำระเงินทุกเดือน";
+"paymentEveryQuarter" = "ชำระเงินทุกไตรมาส";
+"paymentEverySixMonth" = "ชำระทุก 6 เดือน";
+"paymentEveryYear" = "ชำระเงินทุกปี";
+"interest" = "ดอกเบี้ย";
+"principal" = "เงินต้น";
+"balance" = "ยอดคงเหลือยกไป";
+"amortizationSchedule" = "กำหนดการตัดจำหน่าย";
+"questionAbout" = "คำถามเกี่ยวกับเครื่องคำนวณเงินกู้";
+"edit" = "แก้ไข";
+"editName" = "แก้ไขชื่อ";
+"editPurchaseDate" = "แก้ไขวันที่ซื้อของคุณ";
+"upgradeAndRemoveAdsDetails0" = "คุณสมบัตินี้ถูกล็อค ";
+"upgradeAndRemoveAds" = "อัปเดตเพื่อลบโฆษณาและปลดล็อกคุณสมบัติทั้งหมด เพียง ";
+"upgradeAndRemoveAdsDetails1" = "\n\n - ส่งอีเมลผลลัพธ์";
+"upgradeAndRemoveAdsDetails2" = "\n - ส่งออกเป็นไฟล์ CSV";
+"upgradeAndRemoveAdsDetails3" = "\n - การคำนวณระยะเวลาเงินกู้";
+"upgradeAndRemoveAdsDetails4" = "\n - เปรียบเทียบสินเชื่อ";
+
+"lifeTimeUpgrade" = "อัพเกรดตลอดชีพ เพียง ";
+"decimalPlaces0To8" = "ตำแหน่งทศนิยมต้องเป็นตัวเลขธรรมชาติระหว่าง 0 ถึง 8";
+"decimalPlaces" = "ตำแหน่งทศนิยม";
+"decimalPlacesAlert" = "ป้อนตัวเลขธรรมชาติตั้งแต่ 0 ถึง 8";
+"restoreWasSuccessful" = "กู้คืนสำเร็จแล้ว!";
+"premium" = "พรีเมี่ยม";
+"back" = "กลับ";
+"loanCalculator" = "เครื่องคำนวณสินเชื่อ";
+"upgradeToRemoveAdsAndUnlockAllFeature" = "อัปเกรดเพื่อลบโฆษณาและปลดล็อกฟังก์ชันทั้งหมด คุณต้องอัปเกรดเพียงครั้งเดียวเพื่อปลดล็อกคุณลักษณะทั้งหมดตลอดไป.";
+"calculateLoanPeriods" = "เครื่องคำนวณระยะเวลาการชำระคืน";
+"compareLoans" = "เปรียบเทียบสินเชื่อ";
+"emailTheResult" = "✪ ส่งอีเมลผลลัพธ์";
+"exportToCSV" = "✪ ส่งออกเป็นไฟล์ CSV";
+"setDecimalPlaces" = "✪ กำหนดตำแหน่งทศนิยม";
+"removeAds" = "✪ ลบโฆษณา";
+"supportOurDevelopment" = "✪ สนับสนุนการพัฒนาของเรา";
+"upgrade" = "อัพเกรด";
+"notNow" = "ไม่ใช่ตอนนี้";
