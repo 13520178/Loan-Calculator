@@ -1,0 +1,12 @@
+# ===== BỎ NHỮNG FILE KHÔNG CẦN =====
+DerivedData/
+*.xcuserdata
+*.DS_Store
+*.swp
+
+
+# ===== GIỮ LẠI FILE DỊCH =====
+!*.lproj/
+!*.lproj/*.strings
+!*.lproj/*.storyboard
+!*.lproj/*.xib
