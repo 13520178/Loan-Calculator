@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ScheduleCell: UITableViewCell {
+class FixedScheduleCell: UITableViewCell {
     @IBOutlet weak var numberLabel: UILabel!
     @IBOutlet weak var principalLabel: UILabel!
     @IBOutlet weak var interestLabel: UILabel!
