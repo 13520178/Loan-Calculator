@@ -162,6 +162,10 @@ class StringForLocal {
     static let supportOurDevelopment = NSLocalizedString("supportOurDevelopment", comment: "supportOurDevelopment")
     static let upgrade = NSLocalizedString("upgrade", comment: "upgrade")
     static let notNow = NSLocalizedString("notNow", comment: "notNow")
-    
+    static let noAdAvailable = NSLocalizedString("noAdAvailable", comment: "noAdAvailable")
+    static let adIsNotReadyYetPleaseTryAgainLater = NSLocalizedString("adIsNotReadyYetPleaseTryAgainLater", comment: "adIsNotReadyYetPleaseTryAgainLater")
+    static let from = NSLocalizedString("from", comment: "from")
+    static let to = NSLocalizedString("to", comment: "to")
+    static let principalPerPeriod = NSLocalizedString("principalPerPeriod", comment: "principalPerPeriod")
 }
 

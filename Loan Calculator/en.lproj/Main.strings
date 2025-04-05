@@ -5,8 +5,8 @@
 /* Class = "UILabel"; text = "%"; ObjectID = "0CZ-Pc-8Jp"; */
 "0CZ-Pc-8Jp.text" = "%";
 
-/* Class = "UILabel"; text = "Number of Payment"; ObjectID = "0G7-d0-l9g"; */
-"0G7-d0-l9g.text" = "Number of Payment";
+/* Class = "UILabel"; text = "Number of Payments"; ObjectID = "0G7-d0-l9g"; */
+"0G7-d0-l9g.text" = "Number of Payments";
 
 /* Class = "UILabel"; text = "Total Repaid"; ObjectID = "0bu-BW-jlV"; */
 "0bu-BW-jlV.text" = "Total Repaid";
@@ -41,8 +41,8 @@
 /* Class = "UILabel"; text = "Loan Term"; ObjectID = "4pY-Rn-FcR"; */
 "4pY-Rn-FcR.text" = "Loan Term";
 
-/* Class = "UILabel"; text = "Report & feedback "; ObjectID = "4xV-GC-LTd"; */
-"4xV-GC-LTd.text" = "Report & feedback ";
+/* Class = "UILabel"; text = "Report & Feedback "; ObjectID = "4xV-GC-LTd"; */
+"4xV-GC-LTd.text" = "Report & Feedback ";
 
 /* Class = "UILabel"; text = "Loan Amount"; ObjectID = "580-Ou-nPe"; */
 "580-Ou-nPe.text" = "Loan Amount";
@@ -59,8 +59,8 @@
 /* Class = "UITextField"; placeholder = "2000"; ObjectID = "688-wU-zNV"; */
 "688-wU-zNV.placeholder" = "2000";
 
-/* Class = "UILabel"; text = "Number of Payment"; ObjectID = "6Wo-vY-bwf"; */
-"6Wo-vY-bwf.text" = "Number of Payment";
+/* Class = "UILabel"; text = "Number of Payments"; ObjectID = "6Wo-vY-bwf"; */
+"6Wo-vY-bwf.text" = "Number of Payments";
 
 /* Class = "UILabel"; text = "Interest rate"; ObjectID = "6c5-Tv-WPS"; */
 "6c5-Tv-WPS.text" = "Interest rate";
@@ -122,7 +122,7 @@
 /* Class = "UILabel"; text = "Compare 2 loans (Interest, Loan Amount, Loan Term) for decision making"; ObjectID = "Dyl-20-me7"; */
 "Dyl-20-me7.text" = "Compare 2 loans (Interest, Loan Amount, Loan Term) for decision making";
 
-/* Class = "UILabel"; text = "Payment Freequency"; ObjectID = "ESy-S1-yak"; */
+/* Class = "UILabel"; text = "Payment Frequency"; ObjectID = "ESy-S1-yak"; */
 "ESy-S1-yak.text" = "Payment Frequency";
 
 /* Class = "UILabel"; text = "Total Interest"; ObjectID = "Ext-9C-Jch"; */
@@ -188,14 +188,14 @@
 /* Class = "UITabBarItem"; title = "Result"; ObjectID = "Krq-11-QVT"; */
 "Krq-11-QVT.title" = "Result";
 
-/* Class = "UILabel"; text = "Auto Coan Calculator"; ObjectID = "KuQ-xQ-yPz"; */
+/* Class = "UILabel"; text = "Auto Loan Calculator"; ObjectID = "KuQ-xQ-yPz"; */
 "KuQ-xQ-yPz.text" = "Auto Loan Calculator";
 
 /* Class = "UILabel"; text = "Balance"; ObjectID = "LG8-Fl-wkJ"; */
 "LG8-Fl-wkJ.text" = "Balance";
 
-/* Class = "UILabel"; text = "Payment Freequency"; ObjectID = "LhY-sy-kgN"; */
-"LhY-sy-kgN.text" = "Payment Freequency";
+/* Class = "UILabel"; text = "Payment Frequency"; ObjectID = "LhY-sy-kgN"; */
+"LhY-sy-kgN.text" = "Payment Frequency";
 
 /* Class = "UILabel"; text = "years"; ObjectID = "Lsa-ys-aDy"; */
 "Lsa-ys-aDy.text" = "years";
@@ -233,7 +233,7 @@
 /* Class = "UILabel"; text = "#"; ObjectID = "PrC-dy-m19"; */
 "PrC-dy-m19.text" = "#";
 
-/* Class = "UILabel"; text = "Loan Infomation"; ObjectID = "RFH-jK-d2n"; */
+/* Class = "UILabel"; text = "Loan Information"; ObjectID = "RFH-jK-d2n"; */
 "RFH-jK-d2n.text" = "Loan Information";
 
 /* Class = "UILabel"; text = "Repayment Period Calculator"; ObjectID = "RX8-fc-qmX"; */
@@ -242,11 +242,11 @@
 /* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "Rmf-b5-4Ni"; */
 "Rmf-b5-4Ni.normalTitle" = "Calculate";
 
-/* Class = "UIBarButtonItem"; title = "Email Result"; ObjectID = "S9m-rl-oML"; */
+/* Class = "UIBarButtonItem"; title = "Email"; ObjectID = "S9m-rl-oML"; */
 "S9m-rl-oML.title" = "Email";
 
-/* Class = "UILabel"; text = "Created date: 21/08/2019"; ObjectID = "SLG-aI-qGh"; */
-"SLG-aI-qGh.text" = "Created date: 21/08/2019";
+/* Class = "UILabel"; text = "Creation Date: 21/08/2019"; ObjectID = "SLG-aI-qGh"; */
+"SLG-aI-qGh.text" = "Creation Date: 21/08/2019";
 
 /* Class = "UITextField"; placeholder = "50.000"; ObjectID = "SSE-ld-uSl"; */
 "SSE-ld-uSl.placeholder" = "50.000";
@@ -289,14 +289,14 @@
 /* Class = "UINavigationItem"; title = "New Loan"; ObjectID = "ZV8-Th-dVp"; */
 "ZV8-Th-dVp.title" = "New Loan";
 
-/* Class = "UINavigationItem"; title = "Repayment time"; ObjectID = "an3-Vr-4Xw"; */
-"an3-Vr-4Xw.title" = "Repayment time";
+/* Class = "UINavigationItem"; title = "Repayment Time"; ObjectID = "an3-Vr-4Xw"; */
+"an3-Vr-4Xw.title" = "Repayment Time";
 
 /* Class = "UILabel"; text = "Result"; ObjectID = "bHu-bu-lBj"; */
 "bHu-bu-lBj.text" = "Result";
 
-/* Class = "UILabel"; text = "Payment Freequency"; ObjectID = "bW7-RP-wpY"; */
-"bW7-RP-wpY.text" = "Payment Freequency";
+/* Class = "UILabel"; text = "Payment Frequency"; ObjectID = "bW7-RP-wpY"; */
+"bW7-RP-wpY.text" = "Payment Frequency";
 
 /* Class = "UINavigationItem"; title = "Schedule"; ObjectID = "btj-BC-FAs"; */
 "btj-BC-FAs.title" = "Schedule";
@@ -310,8 +310,8 @@
 /* Class = "UILabel"; text = "Monthly"; ObjectID = "daq-Df-wNK"; */
 "daq-Df-wNK.text" = "Monthly";
 
-/* Class = "UILabel"; text = "# of payment"; ObjectID = "dlw-6s-C6d"; */
-"dlw-6s-C6d.text" = "# of payment";
+/* Class = "UILabel"; text = "# of payments"; ObjectID = "dlw-6s-C6d"; */
+"dlw-6s-C6d.text" = "# of payments";
 
 /* Class = "UILabel"; text = "Calculate the repayment period based on the periodic payment"; ObjectID = "e2m-t9-m2m"; */
 "e2m-t9-m2m.text" = "Calculate the repayment period based on the periodic payment";
@@ -337,8 +337,8 @@
 /* Class = "UITabBarItem"; title = "Saved Loans"; ObjectID = "fhc-ms-a1v"; */
 "fhc-ms-a1v.title" = "Saved Loans";
 
-/* Class = "UILabel"; text = "Number of Payment"; ObjectID = "flQ-4y-CR7"; */
-"flQ-4y-CR7.text" = "Number of Payment";
+/* Class = "UILabel"; text = "Number of Payments"; ObjectID = "flQ-4y-CR7"; */
+"flQ-4y-CR7.text" = "Number of Payments";
 
 /* Class = "UILabel"; text = "Chart"; ObjectID = "foK-BP-vPz"; */
 "foK-BP-vPz.text" = "Chart";
@@ -528,3 +528,72 @@
 /* Class = "UITabBarItem"; title = "Tools"; ObjectID = "gKj-md-d1u"; */
 "gKj-md-d1u.title" = "Tools";
 
+
+//05-04-2025
+/* Class = "UIButton"; normalTitle = "🎁 Watch a Short Ad to Unlock"; ObjectID = "aEV-Sc-mHx"; */
+"aEV-Sc-mHx.normalTitle" = "🎁 Watch a Short Ad to Unlock";
+
+/* Class = "UINavigationItem"; title = "Declining Balance"; ObjectID = "YoI-nY-UC0"; */
+"YoI-nY-UC0.title" = "Declining Balance";
+
+/* Class = "UILabel"; text = "Loan Amount"; ObjectID = "OuT-od-p58"; */
+"OuT-od-p58.text" = "Loan Amount";
+
+/* Class = "UILabel"; text = "Loan Term"; ObjectID = "k7r-S9-Y0j"; */
+"k7r-S9-Y0j.text" = "Loan Term";
+
+/* Class = "UILabel"; text = "years"; ObjectID = "G91-2A-EKf"; */
+"G91-2A-EKf.text" = "years";
+
+/* Class = "UILabel"; text = "months"; ObjectID = "oIF-Xk-bVa"; */
+"oIF-Xk-bVa.text" = "months";
+
+/* Class = "UILabel"; text = "Interest Rate"; ObjectID = "0I0-sa-pkX"; */
+"0I0-sa-pkX.text" = "Interest Rate";
+
+
+/* Class = "UILabel"; text = "Payment Frequency"; ObjectID = "XD0-KC-NEm"; */
+"XD0-KC-NEm.text" = "Payment Frequency";
+
+/* Class = "UIButton"; normalTitle = "Monthly"; ObjectID = "lhP-OZ-ezo"; */
+"lhP-OZ-ezo.normalTitle" = "Monthly";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "BjH-G8-ftD"; */
+"BjH-G8-ftD.normalTitle" = "Calculate";
+
+/* Class = "UILabel"; text = "Payment Every Month"; ObjectID = "nFr-oM-UTc"; */
+"nFr-oM-UTc.text" = "Payment Every Month";
+
+/* Class = "UILabel"; text = "Number of Payments"; ObjectID = "5mr-bA-qxV"; */
+"5mr-bA-qxV.text" = "Number of Payments";
+
+/* Class = "UILabel"; text = "Total Interest"; ObjectID = "hvT-MS-KWc"; */
+"hvT-MS-KWc.text" = "Total Interest";
+
+/* Class = "UILabel"; text = "Total Repaid"; ObjectID = "oTc-Ft-PbM"; */
+"oTc-Ft-PbM.text" = "Total Repaid";
+
+/* Class = "UIButton"; normalTitle = "Amortization Schedule"; ObjectID = "D9V-aA-FDf"; */
+"D9V-aA-FDf.normalTitle" = "Amortization Schedule";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "s0G-WW-ptg"; */
+"s0G-WW-ptg.text" = "Payment";
+
+/* Class = "UILabel"; text = "Interest"; ObjectID = "frA-an-066"; */
+"frA-an-066.text" = "Interest";
+
+/* Class = "UILabel"; text = "Balance"; ObjectID = "kR9-03-WAX"; */
+"kR9-03-WAX.text" = "Balance";
+
+/* Class = "UINavigationItem"; title = "Schedule"; ObjectID = "EqH-qE-OE8"; */
+"EqH-qE-OE8.title" = "Schedule";
+
+/* Class = "UILabel"; text = "Declining Balance"; ObjectID = "YJu-gV-ivg"; */
+"YJu-gV-ivg.text" = "Declining Balance";
+
+
+/* Class = "UILabel"; text = "Declining Balance Calculator"; ObjectID = "EQ0-zp-kdA"; */
+"EQ0-zp-kdA.text" = "Declining Balance Calculator";
+
+/* Class = "UILabel"; text = "Calculate payments where interest reduces as the principal is paid down."; ObjectID = "4XH-Qg-XJo"; */
+"4XH-Qg-XJo.text" = "Calculate payments where interest reduces as the principal is paid down.";

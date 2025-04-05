@@ -112,3 +112,11 @@
 "supportOurDevelopment" = "Hỗ trợ sự phát triển của chúng tôi";
 "upgrade" = "Nâng cấp";
 "notNow" = "Không phải bây giờ";
+
+//05-04-2025
+"noAdAvailable" = "Không có quảng cáo nào khả dụng";
+"adIsNotReadyYetPleaseTryAgainLater" = "Quảng cáo chưa sẵn sàng. Vui lòng thử lại sau.";
+
+// From 8.000.000 to 3.000.000
+"from" = "Từ";
+"to" = "đến";

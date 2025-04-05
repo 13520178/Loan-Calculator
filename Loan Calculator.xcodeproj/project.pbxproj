@@ -13,7 +13,7 @@
 		2A27F5FE260E07F600F72AF2 /* AppStoreReviewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A27F5FD260E07F600F72AF2 /* AppStoreReviewManager.swift */; };
 		2A27F601260E082100F72AF2 /* UserDefaults+Key.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A27F600260E082100F72AF2 /* UserDefaults+Key.swift */; };
 		2A2B7C8B24F603A7001777CD /* ScheduleController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A2B7C8A24F603A7001777CD /* ScheduleController.swift */; };
-		2A61A90724F78D8E0037956B /* ScheduleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A61A90624F78D8E0037956B /* ScheduleCell.swift */; };
+		2A61A90724F78D8E0037956B /* FixedScheduleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A61A90624F78D8E0037956B /* FixedScheduleCell.swift */; };
 		2A61A90924F7EF6D0037956B /* RepaymentTimeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A61A90824F7EF6D0037956B /* RepaymentTimeController.swift */; };
 		2A6EFCC72508C18F00104B46 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2A6EFCC62508C18F00104B46 /* StoreKit.framework */; };
 		2A883D4726F81973000DCBF9 /* IAPController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A883D4626F81973000DCBF9 /* IAPController.swift */; };
@@ -39,6 +39,11 @@
 		A28254F72D929DD1002C36BE /* LoanEMICalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28254F62D929DD1002C36BE /* LoanEMICalculator.swift */; };
 		A28254FD2D939144002C36BE /* ToolsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28254FC2D939144002C36BE /* ToolsController.swift */; };
 		A2890AD12D95290000D13D31 /* GradientButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2890AD02D95290000D13D31 /* GradientButton.swift */; };
+		A28D9DC52D9FEC240092950F /* DecliningBalanceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28D9DC42D9FEC240092950F /* DecliningBalanceController.swift */; };
+		A28D9DC72D9FEDC60092950F /* Loan Calculator - Payment Calc.storekit in Resources */ = {isa = PBXBuildFile; fileRef = A28D9DC62D9FEDC60092950F /* Loan Calculator - Payment Calc.storekit */; };
+		A28D9DC92D9FF2BC0092950F /* LoanReducingBalanceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28D9DC82D9FF2BC0092950F /* LoanReducingBalanceModel.swift */; };
+		A28D9DCB2DA010550092950F /* DecliningScheduleCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28D9DCA2DA010550092950F /* DecliningScheduleCell.swift */; };
+		A28D9DCD2DA021050092950F /* DecliningScheduleController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28D9DCC2DA021050092950F /* DecliningScheduleController.swift */; };
 		F017E20B7282464D3E18891D /* Pods_Loan_Calculator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45F332E9F1072A4627560B7E /* Pods_Loan_Calculator.framework */; };
 /* End PBXBuildFile section */
 
@@ -92,7 +97,7 @@
 		2A27F5FD260E07F600F72AF2 /* AppStoreReviewManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppStoreReviewManager.swift; sourceTree = "<group>"; };
 		2A27F600260E082100F72AF2 /* UserDefaults+Key.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UserDefaults+Key.swift"; sourceTree = "<group>"; };
 		2A2B7C8A24F603A7001777CD /* ScheduleController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleController.swift; sourceTree = "<group>"; };
-		2A61A90624F78D8E0037956B /* ScheduleCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScheduleCell.swift; sourceTree = "<group>"; };
+		2A61A90624F78D8E0037956B /* FixedScheduleCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixedScheduleCell.swift; sourceTree = "<group>"; };
 		2A61A90824F7EF6D0037956B /* RepaymentTimeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepaymentTimeController.swift; sourceTree = "<group>"; };
 		2A6EFCC62508C18F00104B46 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		2A883D4626F81973000DCBF9 /* IAPController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IAPController.swift; sourceTree = "<group>"; };
@@ -183,6 +188,11 @@
 		A28254F62D929DD1002C36BE /* LoanEMICalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoanEMICalculator.swift; sourceTree = "<group>"; };
 		A28254FC2D939144002C36BE /* ToolsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolsController.swift; sourceTree = "<group>"; };
 		A2890AD02D95290000D13D31 /* GradientButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientButton.swift; sourceTree = "<group>"; };
+		A28D9DC42D9FEC240092950F /* DecliningBalanceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecliningBalanceController.swift; sourceTree = "<group>"; };
+		A28D9DC62D9FEDC60092950F /* Loan Calculator - Payment Calc.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Loan Calculator - Payment Calc.storekit"; sourceTree = "<group>"; };
+		A28D9DC82D9FF2BC0092950F /* LoanReducingBalanceModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoanReducingBalanceModel.swift; sourceTree = "<group>"; };
+		A28D9DCA2DA010550092950F /* DecliningScheduleCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecliningScheduleCell.swift; sourceTree = "<group>"; };
+		A28D9DCC2DA021050092950F /* DecliningScheduleController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecliningScheduleController.swift; sourceTree = "<group>"; };
 		A62B077500AD853F6B54DEDA /* Pods-Loan Calculator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Loan Calculator.debug.xcconfig"; path = "Target Support Files/Pods-Loan Calculator/Pods-Loan Calculator.debug.xcconfig"; sourceTree = "<group>"; };
 		A7C3C2012C9907437D1E580B /* Pods-Loan Calculator.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Loan Calculator.release.xcconfig"; path = "Target Support Files/Pods-Loan Calculator/Pods-Loan Calculator.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -213,6 +223,7 @@
 			isa = PBXGroup;
 			children = (
 				A28254F62D929DD1002C36BE /* LoanEMICalculator.swift */,
+				A28D9DC82D9FF2BC0092950F /* LoanReducingBalanceModel.swift */,
 			);
 			path = Object;
 			sourceTree = "<group>";
@@ -220,7 +231,8 @@
 		2A61A90524F78D0E0037956B /* Cell */ = {
 			isa = PBXGroup;
 			children = (
-				2A61A90624F78D8E0037956B /* ScheduleCell.swift */,
+				2A61A90624F78D8E0037956B /* FixedScheduleCell.swift */,
+				A28D9DCA2DA010550092950F /* DecliningScheduleCell.swift */,
 				2A942B622500A2BD0053252B /* SavedCell.swift */,
 			);
 			path = Cell;
@@ -231,6 +243,7 @@
 			children = (
 				2A0AD0F02507ABF700450B31 /* InfoPlist.strings */,
 				2A921DB224F3C40500E0D67F /* Localizable.strings */,
+				A28D9DC62D9FEDC60092950F /* Loan Calculator - Payment Calc.storekit */,
 				2A921D8624F39BFB00E0D67F /* Loan Calculator */,
 				2A921D8524F39BFB00E0D67F /* Products */,
 				7DEF7E42F7449792D8A3D372 /* Pods */,
@@ -292,6 +305,8 @@
 				A28254FC2D939144002C36BE /* ToolsController.swift */,
 				2A61A90824F7EF6D0037956B /* RepaymentTimeController.swift */,
 				2A121EDE24FA5A450057E240 /* LoanCompareController.swift */,
+				A28D9DC42D9FEC240092950F /* DecliningBalanceController.swift */,
+				A28D9DCC2DA021050092950F /* DecliningScheduleController.swift */,
 				2ACF4A7D24F555200094ADC8 /* InfoController.swift */,
 				2A883D4626F81973000DCBF9 /* IAPController.swift */,
 			);
@@ -398,6 +413,7 @@
 				2A921D9424F39BFE00E0D67F /* Assets.xcassets in Resources */,
 				2A921D8F24F39BFB00E0D67F /* Main.storyboard in Resources */,
 				2A0AD0EE2507ABF700450B31 /* InfoPlist.strings in Resources */,
+				A28D9DC72D9FEDC60092950F /* Loan Calculator - Payment Calc.storekit in Resources */,
 				2A2712CD266739B7009BA88B /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -452,12 +468,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				A28254F72D929DD1002C36BE /* LoanEMICalculator.swift in Sources */,
+				A28D9DCD2DA021050092950F /* DecliningScheduleController.swift in Sources */,
 				2A921DAD24F3C3B600E0D67F /* StringForLocal.swift in Sources */,
 				2A27F601260E082100F72AF2 /* UserDefaults+Key.swift in Sources */,
 				2A942B632500A2BD0053252B /* SavedCell.swift in Sources */,
 				2AF2CAE624FCA29C00480182 /* Constant.swift in Sources */,
 				2A883D4726F81973000DCBF9 /* IAPController.swift in Sources */,
 				2A921DA524F3C1C600E0D67F /* IAPProduct.swift in Sources */,
+				A28D9DC92D9FF2BC0092950F /* LoanReducingBalanceModel.swift in Sources */,
 				2AC552772501E300002FB9FC /* DetailSavedController.swift in Sources */,
 				2A61A90924F7EF6D0037956B /* RepaymentTimeController.swift in Sources */,
 				2A921D8C24F39BFB00E0D67F /* ViewController.swift in Sources */,
@@ -471,8 +489,10 @@
 				2A2B7C8B24F603A7001777CD /* ScheduleController.swift in Sources */,
 				2AC552752500D5F4002FB9FC /* CoreDataService.swift in Sources */,
 				2A121EDF24FA5A450057E240 /* LoanCompareController.swift in Sources */,
-				2A61A90724F78D8E0037956B /* ScheduleCell.swift in Sources */,
+				A28D9DC52D9FEC240092950F /* DecliningBalanceController.swift in Sources */,
+				2A61A90724F78D8E0037956B /* FixedScheduleCell.swift in Sources */,
 				2A921DA324F3C1C600E0D67F /* Tools.swift in Sources */,
+				A28D9DCB2DA010550092950F /* DecliningScheduleCell.swift in Sources */,
 				2ACF4A7E24F555200094ADC8 /* InfoController.swift in Sources */,
 				2ACF4A7C24F555130094ADC8 /* SavedController.swift in Sources */,
 				A28254FD2D939144002C36BE /* ToolsController.swift in Sources */,

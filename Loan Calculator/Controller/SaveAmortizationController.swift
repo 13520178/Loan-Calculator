@@ -132,7 +132,7 @@ class SaveAmortizationController: UIViewController,UITableViewDelegate, UITableV
         let roundedPrincipal = roundValue(amortization.principal)
         let roundedBalance = roundValue(amortization.balance)
 
-        let cell = tableView.dequeueReusableCell(withIdentifier: "scheduleCell") as! ScheduleCell
+        let cell = tableView.dequeueReusableCell(withIdentifier: "scheduleCell") as! FixedScheduleCell
         cell.numberLabel.text = "\(amortization.number)"
         cell.interestLabel.text = Tools.changeToCurrency(moneyStr: roundedInterest) ?? "-"
         cell.principalLabel.text = Tools.changeToCurrency(moneyStr: roundedPrincipal) ?? "-"

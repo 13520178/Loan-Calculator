@@ -11,13 +11,13 @@
 "theLoanTermTooBigYears" = "The loan term (Year) is too big, please try again!";
 "theLoanTermTooBigMonths" = "The loan term (Month) is too big, please try again!";
 
-"pleaseTapCalculate" = "Please tap Calculate under Input tab before using this feature";
+"pleaseTapCalculate" = "Please tap 'Calculate' in the Input tab before using this feature";
 "thereWasAnError" = "There was an error in the input process, please check again.";
 "theLoanInterestRateTooBig" = "The Interest Rate is too big, please try again!";
 "youDoNotNeedALoan" = "Your payment is greater than the amount you have to pay. You do not need a loan.";
 "anErrorOccurred" = "An error occurred, please try again.";
 "pleaseDoNotLeaveTheNameBlank" = "Please do not leave the name blank";
-"createdDate" = "Created date";
+"createdDate" = "Creation Date";
 "year" = "year";
 "years" = "years";
 "month" = "month";
@@ -25,7 +25,7 @@
 "day" = "day";
 "days" = "days";
 "delete" = "Delete";
-"removeAdsAndSupportingOurDevelopment" = "Remove ads and supporting our development";
+"removeAdsAndSupportingOurDevelopment" = "Remove ads and support our development";
 "loanTermMustBeAPositiveInteger" = "Loan term must be a positive integer";
 "appName" = "Loan Calculator";
 "input" = "Input";
@@ -43,7 +43,7 @@
 "paymentIsNotNegative" = "Payment cannot be negative";
 "paymentFrequency" = "Payment Frequency";
 "payment" = "Payment";
-"numberOfPayment" = "Number of Payment";
+"numberOfPayment" = "Number of Payments";
 "totalRepaid" = "Total Repaid";
 "paymentIsNotZeroOrBlank" = "Payment must be a number greater than 0";
 "loanTermMustBeAPositiveIntegerA" = "Loan Term (Loan A) must be a positive integer";
@@ -87,7 +87,7 @@
 "edit" = "Edit";
 "editName" = "Edit Name";
 "editPurchaseDate" = "Edit purchase date";
-"upgradeAndRemoveAdsDetails0" = "This feature is locked.";
+"upgradeAndRemoveAdsDetails0" = "This feature is locked.";
 "upgradeAndRemoveAds" = "Upgrade to remove ads and unlock all features. Only ";
 "upgradeAndRemoveAdsDetails1" = "\n\n - Email the results";
 "upgradeAndRemoveAdsDetails2" = "\n - Export to CSV file";
@@ -113,3 +113,13 @@
 "upgrade" = "Upgrade";
 "notNow" = "Not Now";
 
+//05-04-2025
+
+"noAdAvailable" = "No Ad Available";
+"adIsNotReadyYetPleaseTryAgainLater" = "Ad is not ready yet. Please try again later.";
+
+// From 8.000.000 to 3.000.000
+"from" = "From";
+"to" = "to";
+
+"principalPerPeriod" = "Principal per period";

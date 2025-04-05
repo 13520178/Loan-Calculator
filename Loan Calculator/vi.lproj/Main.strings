@@ -527,3 +527,70 @@
 /* Class = "UITabBarItem"; title = "Tools"; ObjectID = "gKj-md-d1u"; */
 "gKj-md-d1u.title" = "Công cụ";
 
+
+//05-04-2025
+/* Class = "UIButton"; normalTitle = "🎁 Xem một quảng cáo ngắn để mở khóa"; ObjectID = "aEV-Sc-mHx"; */
+"aEV-Sc-mHx.normalTitle" = "🎁 Xem một quảng cáo ngắn để mở khóa";
+
+/* Class = "UINavigationItem"; title = "Dư nợ giảm dần"; ObjectID = "YoI-nY-UC0"; */
+"YoI-nY-UC0.title" = "Dư nợ giảm dần";
+
+/* Class = "UILabel"; text = "Số tiền vay"; ObjectID = "OuT-od-p58"; */
+"OuT-od-p58.text" = "Số tiền vay";
+
+/* Class = "UILabel"; text = "Thời hạn vay"; ObjectID = "k7r-S9-Y0j"; */
+"k7r-S9-Y0j.text" = "Thời hạn vay";
+
+/* Class = "UILabel"; text = "năm"; ObjectID = "G91-2A-EKf"; */
+"G91-2A-EKf.text" = "năm";
+
+/* Class = "UILabel"; text = "tháng"; ObjectID = "oIF-Xk-bVa"; */
+"oIF-Xk-bVa.text" = "tháng";
+
+/* Class = "UILabel"; text = "Lãi suất"; ObjectID = "0I0-sa-pkX"; */
+"0I0-sa-pkX.text" = "Lãi suất";
+
+/* Class = "UILabel"; text = "Tần suất thanh toán"; ObjectID = "XD0-KC-NEm"; */
+"XD0-KC-NEm.text" = "Tần suất thanh toán";
+
+/* Class = "UIButton"; normalTitle = "Hàng tháng"; ObjectID = "lhP-OZ-ezo"; */
+"lhP-OZ-ezo.normalTitle" = "Hàng tháng";
+
+/* Class = "UIButton"; normalTitle = "Tính toán"; ObjectID = "BjH-G8-ftD"; */
+"BjH-G8-ftD.normalTitle" = "Tính toán";
+
+/* Class = "UILabel"; text = "Thanh toán mỗi tháng"; ObjectID = "nFr-oM-UTc"; */
+"nFr-oM-UTc.text" = "Thanh toán mỗi tháng";
+
+/* Class = "UILabel"; text = "Số kỳ thanh toán"; ObjectID = "5mr-bA-qxV"; */
+"5mr-bA-qxV.text" = "Số kỳ thanh toán";
+
+/* Class = "UILabel"; text = "Tổng tiền lãi"; ObjectID = "hvT-MS-KWc"; */
+"hvT-MS-KWc.text" = "Tổng tiền lãi";
+
+/* Class = "UILabel"; text = "Tổng tiền đã trả"; ObjectID = "oTc-Ft-PbM"; */
+"oTc-Ft-PbM.text" = "Tổng tiền đã trả";
+
+/* Class = "UIButton"; normalTitle = "Bảng khấu hao"; ObjectID = "D9V-aA-FDf"; */
+"D9V-aA-FDf.normalTitle" = "Bảng khấu hao";
+
+/* Class = "UILabel"; text = "Thanh toán"; ObjectID = "s0G-WW-ptg"; */
+"s0G-WW-ptg.text" = "Thanh toán";
+
+/* Class = "UILabel"; text = "Lãi"; ObjectID = "frA-an-066"; */
+"frA-an-066.text" = "Lãi";
+
+/* Class = "UILabel"; text = "Dư nợ"; ObjectID = "kR9-03-WAX"; */
+"kR9-03-WAX.text" = "Dư nợ";
+
+/* Class = "UINavigationItem"; title = "Lịch thanh toán"; ObjectID = "EqH-qE-OE8"; */
+"EqH-qE-OE8.title" = "Lịch thanh toán";
+
+/* Class = "UILabel"; text = "Dư nợ giảm dần"; ObjectID = "YJu-gV-ivg"; */
+"YJu-gV-ivg.text" = "Dư nợ giảm dần";
+
+/* Class = "UILabel"; text = "Máy tính dư nợ giảm dần"; ObjectID = "EQ0-zp-kdA"; */
+"EQ0-zp-kdA.text" = "Máy tính dư nợ giảm dần";
+
+/* Class = "UILabel"; text = "Tính các khoản thanh toán khi lãi giảm dần theo dư nợ gốc."; ObjectID = "4XH-Qg-XJo"; */
+"4XH-Qg-XJo.text" = "Tính các khoản thanh toán khi lãi giảm dần theo dư nợ gốc.";

@@ -20,8 +20,11 @@ class ToolsController: UIViewController, GADBannerViewDelegate {
 
     @IBOutlet weak var loanCompareShadowView: UIView!
     @IBOutlet weak var loanComparionView: UIView!
+    @IBOutlet weak var decliningBalanceShadowView: UIView!
     @IBOutlet weak var repaymentPeriodCalculatorView: UIView!
     @IBOutlet weak var repaymentPeriodShadowView: UIView!
+    @IBOutlet weak var decliningBalanceView: UIView!
+    
     
     var products: [SKProduct] = []
     let isFirstTimeKey = "hasOpenedToolsControllerBefore" // ✅ Thêm key riêng cho màn Tools
@@ -38,6 +41,12 @@ class ToolsController: UIViewController, GADBannerViewDelegate {
         repaymentPeriodShadowView.layer.shadowOpacity = 0.2
         repaymentPeriodShadowView.layer.shadowOffset = CGSize(width: 0, height: 4.0)
         repaymentPeriodShadowView.layer.shadowRadius = 10
+        
+        
+        decliningBalanceShadowView.layer.shadowColor = #colorLiteral(red: 0.1298420429, green: 0.1298461258, blue: 0.1298439503, alpha: 1)
+        decliningBalanceShadowView.layer.shadowOpacity = 0.2
+        decliningBalanceShadowView.layer.shadowOffset = CGSize(width: 0, height: 4.0)
+        decliningBalanceShadowView.layer.shadowRadius = 10
         
         let isFirstTime = !defaults.bool(forKey: isFirstTimeKey)
         
@@ -60,6 +69,12 @@ class ToolsController: UIViewController, GADBannerViewDelegate {
         let repaymentTimeTap = UITapGestureRecognizer(target: self, action: #selector(didTapRepaymentTime))
         repaymentPeriodCalculatorView.addGestureRecognizer(repaymentTimeTap)
         repaymentPeriodCalculatorView.isUserInteractionEnabled = true
+        
+        let decliningBalanceTap = UITapGestureRecognizer(target: self, action: #selector(didTapDecliningBalanceTap))
+        decliningBalanceView.addGestureRecognizer(decliningBalanceTap)
+        decliningBalanceView.isUserInteractionEnabled = true
+        
+        NotificationCenter.default.addObserver(self, selector: #selector(handleUnlockNotification(_:)), name: .didUnlockFeature, object: nil)
     }
     
     override func viewDidAppear(_ animated: Bool) {
@@ -133,10 +148,39 @@ class ToolsController: UIViewController, GADBannerViewDelegate {
         }
     }
     
+    @objc func handleUnlockNotification(_ notification: Notification) {
+        guard let feature = notification.object as? PremiumFeature else { return }
+
+        // ✅ Không cần tự dismiss nữa, vì IAPController đã tự dismiss rồi
+        self.openFeatureTemporarily(feature)
+    }
+
+    
+    func openFeatureTemporarily(_ feature: PremiumFeature) {
+        guard presentedViewController == nil else {
+            print("🚫 Still presenting something — cancel segue")
+            return
+        }
+        switch feature {
+        case .loanComparison:
+            performSegue(withIdentifier: "loanCompare", sender: self)
+        case .repaymentCalculator:
+            performSegue(withIdentifier: "repaymentPeriod", sender: self)
+        case .decliningBalance:
+            performSegue(withIdentifier: "decliningBalance", sender: self)
+        default:
+            break
+        }
+    }
+    
+    deinit {
+        NotificationCenter.default.removeObserver(self)
+    }
+    
     @objc func didTapLoanComparison() {
         if !self.defaults.bool(forKey: "isRemoveAds"){
             if products.count >= 1 {
-                performSegue(withIdentifier: "iap", sender: nil)
+                performSegue(withIdentifier: "iap", sender: PremiumFeature.loanComparison)
             }
         }else {
             performSegue(withIdentifier: "loanCompare", sender: self)
@@ -146,11 +190,38 @@ class ToolsController: UIViewController, GADBannerViewDelegate {
     @objc func didTapRepaymentTime() {
         if !self.defaults.bool(forKey: "isRemoveAds"){
             if products.count >= 1 {
-                performSegue(withIdentifier: "iap", sender: nil)
+                performSegue(withIdentifier: "iap", sender: PremiumFeature.repaymentCalculator)
             }
         }else {
             performSegue(withIdentifier: "repaymentPeriod", sender: self)
         }
     }
+    @objc func didTapDecliningBalanceTap() {
+        if !self.defaults.bool(forKey: "isRemoveAds"){
+            if products.count >= 1 {
+                performSegue(withIdentifier: "iap", sender: PremiumFeature.decliningBalance)
+            }
+        }else {
+            performSegue(withIdentifier: "decliningBalance", sender: self)
+        }
+    }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == "iap" {
+            if let iapVC = segue.destination as? IAPController,
+               let feature = sender as? PremiumFeature {
+                iapVC.featureToUnlock = feature
+                if products.count >= 1 {
+                    iapVC.price = Tools.priceFormatter.string(from: products[0].price)!
+                }
+            } else {
+                print("⚠️ Không truyền được feature")
+            }
+        } 
+    }
 
+}
+
+extension Notification.Name {
+    static let didUnlockFeature = Notification.Name("didUnlockFeature")
 }

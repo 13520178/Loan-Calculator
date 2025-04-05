@@ -7,8 +7,13 @@
 
 import Foundation
 
-enum RepaymentFrequency {
-    case daily, weekly, monthly, quarterly, semiAnnually, annually
+enum RepaymentFrequency: Int {
+    case daily = 0
+    case weekly
+    case monthly
+    case quarterly
+    case semiAnnually
+    case annually
 
     var periodsPerYear: Double {
         switch self {
